@@ -1,0 +1,465 @@
+{
+    "hero": {
+        "title": "Le Patrimoine de l'Orient\nRencontre le Monde",
+        "subtitle": "Préserver le patrimoine. Inspirer le dialogue. Rapprocher les cultures."
+    },
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos",
+        "exhibitions": "Expositions",
+        "artist": "Artiste",
+        "news": "Actualités",
+        "contact": "Contact",
+        "profile": "Profil"
+    },
+    "marquee": [
+        "Patrimoine Culturel de l'Orient",
+        "Explorer & Préserver",
+        "Rapprocher les Cultures",
+        "MOECA · Montréal"
+    ],
+    "slider": {
+        "label": "Exposition en cours",
+        "location_label": "Lieu",
+        "medium_label": "Technique",
+        "style_label": "Style",
+        "artist_label": "Artiste",
+        "slides": [
+            {
+                "title": "Le Rugissement du Tigre",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Encre projetée",
+                "style": "Tigre & Faune",
+                "artist": "Zhang Jinsheng"
+            },
+            {
+                "title": "Encre & Humanité",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Paysage à l'encre",
+                "style": "Paysage",
+                "artist": "Li Wenyuan"
+            },
+            {
+                "title": "Esprit Souverain",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Encre projetée",
+                "style": "Tigre & Faune",
+                "artist": "Zhang Jinsheng"
+            },
+            {
+                "title": "Rêverie Orientale",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Encre expressive",
+                "style": "Tigre & Faune",
+                "artist": "Wang Xuanzhi"
+            }
+        ]
+    },
+    "services": {
+        "title": "Nos Collections",
+        "items": [
+            {
+                "number": "01",
+                "title": "Calligraphie & Peinture chinoises",
+                "description": "Rouleaux historiques et peintures à l'encre qui incarnent la profondeur de la culture visuelle et littéraire chinoise."
+            },
+            {
+                "number": "02",
+                "title": "Peinture animalière · Tigre",
+                "description": "Peintures expressives à l'encre projetée menées par Zhang Jinsheng, célébrant l'une des traditions symboliques les plus puissantes de l'art chinois."
+            },
+            {
+                "number": "03",
+                "title": "Art du paysage à l'encre",
+                "description": "Chefs-d'œuvre de la peinture de paysage chinoise, où le pinceau et la brume évoquent l'harmonie entre l'humanité et la nature."
+            },
+            {
+                "number": "04",
+                "title": "Arts traditionnels asiatiques",
+                "description": "Céramiques, bronzes, broderies de soie et objets patrimoniaux couvrant les grandes civilisations asiatiques."
+            },
+            {
+                "number": "05",
+                "title": "Patrimoine immatériel",
+                "description": "Préservation et promotion des arts populaires et pratiques culturelles vivantes comme fils essentiels de la civilisation humaine."
+            },
+            {
+                "number": "06",
+                "title": "Art oriental contemporain",
+                "description": "Œuvres d'artistes contemporains qui mobilisent l'esthétique orientale pour aborder les questions modernes."
+            }
+        ],
+        "section_title": "Types de collection"
+    },
+    "about": {
+        "title": "À propos",
+        "subtitle": "MOECA",
+        "heading": "Un organisme culturel sans but lucratif constitué en vertu des lois fédérales du Canada",
+        "body": "Établi à Montréal, le musée a pour mission de préserver, promouvoir et faire rayonner les cultures et les arts de l'Orient tout en favorisant le dialogue interculturel et le rapprochement entre les peuples.",
+        "explore": "En savoir plus"
+    },
+    "counter": {
+        "artworks": "Œuvres en collection",
+        "artists": "Artistes résidents",
+        "exhibitions": "Expositions réalisées",
+        "founded": "Fondé en",
+        "founded_suffix": ""
+    },
+    "artist": {
+        "title": "Artiste contemporain à l'encre",
+        "born": "Naissance",
+        "origin": "Origine",
+        "school": "École",
+        "style": "Style",
+        "studio": "Nom de studio",
+        "based": "Basé à",
+        "active": "Actif depuis",
+        "timeline_title": "Parcours",
+        "timeline_subtitle": "Une vie dédiée à l'art de l'encre orientale et aux échanges culturels.",
+        "gallery_title": "Galerie",
+        "about_title": "À propos de l'œuvre",
+        "about_text": "L'art de Zhang Jinsheng transcende la simple représentation — chaque tigre est un portrait d'émotion humaine, rendu à travers un pinceau audacieux et libéré.",
+        "about_heading": "Pionnier du tigre à l'encre projetée — où l'énergie brute rencontre la tradition classique.",
+        "about_body": "Inspiré par la technique révolutionnaire d'encre projetée de Zhang Daqian, Zhang Jinsheng a développé son propre vocabulaire expressif. Ses tigres incarnent le courage, la solitude et toute la gamme des émotions humaines, rendus avec une encre qui coule aussi librement que l'émotion elle-même. Au fil des décennies, il a utilisé le tigre comme miroir de la condition humaine — chaque œuvre est un dialogue silencieux avec le spectateur, transcendant le langage et la culture pour toucher l'âme.",
+        "brief": {
+            "born": "1955",
+            "origin": "Kaifeng, Henan, Chine",
+            "school": "Dafeng Tang — lignée de Zhang Daqian"
+        },
+        "info": {
+            "studio_label": "Nom de studio",
+            "studio_value": "Xiaofeng Tang",
+            "based_label": "Basé à",
+            "based_value": "Montréal, Canada",
+            "active_label": "Actif depuis",
+            "active_value": "1970"
+        },
+        "bio": "Disciple de deuxième génération de la légendaire école Dafeng Tang, Zhang Jinsheng a consacré plus de cinquante ans à la peinture à l'encre chinoise. Réputé pour ses tigres expressifs à l'encre projetée, il est largement reconnu comme le plus grand peintre de tigres des Plaines centrales.",
+        "timeline": [
+            {
+                "year": "1970",
+                "event": "Étudié sous Li Baoduo, rejoint la lignée Dafeng Tang"
+            },
+            {
+                "year": "1995",
+                "event": "Exposition solo : Cent Tigres, Zhengzhou"
+            },
+            {
+                "year": "2003",
+                "event": "Publication de la monographie Zhang Jinsheng peint des tigres"
+            },
+            {
+                "year": "2004",
+                "event": "Exposition à Taipei ; don de documents au Musée National du Palais"
+            },
+            {
+                "year": "2007",
+                "event": "Exposition à Shanghai en présence de Zhang Xinqing, fille de Zhang Daqian"
+            },
+            {
+                "year": "2023",
+                "event": "Ouverture de sa galerie personnelle à Shanghai, exposition de calligraphie et peinture saluée par les collectionneurs et les médias"
+            }
+        ],
+        "gallery_captions": [
+            "Série Tigre à l'encre",
+            "Paysage de montagne",
+            "Tigre et bambou",
+            "Étude d'encre projetée",
+            "Tigre dans la brume"
+        ]
+    },
+    "projects": {
+        "items": [
+            {
+                "title": "La Descente du Tigre",
+                "category": "Encre · Tigre"
+            },
+            {
+                "title": "Vue sur la Galerie",
+                "category": "Espace d'exposition"
+            },
+            {
+                "title": "Rouleau de Calligraphie",
+                "category": "Calligraphie"
+            },
+            {
+                "title": "Bêtes de l'Orient",
+                "category": "Encre · Animaux"
+            }
+        ]
+    },
+    "process": {
+        "title": "Notre Mission",
+        "items": [
+            {
+                "num": "01",
+                "title": "Collection",
+                "desc": "Acquérir de manière systématique des œuvres d'art oriental d'importance académique et historique, préservant les plus belles expressions de la civilisation humaine pour les générations futures."
+            },
+            {
+                "num": "02",
+                "title": "Recherche",
+                "desc": "Mener des recherches approfondies sur l'histoire, l'esthétique et la signification culturelle de l'art oriental, en faisant avancer les connaissances académiques."
+            },
+            {
+                "num": "03",
+                "title": "Exposition",
+                "desc": "Concevoir des expositions de haut niveau présentant la beauté artistique de la civilisation orientale à un public international, favorisant un dialogue visuel interculturel."
+            },
+            {
+                "num": "04",
+                "title": "Éducation",
+                "desc": "Développer des programmes éducatifs publics diversifiés pour aider les publics de tous âges à s'engager avec les valeurs spirituelles et les racines historiques de la culture orientale."
+            },
+            {
+                "num": "05",
+                "title": "Échanges internationaux",
+                "desc": "Établir des partenariats avec des musées, des institutions académiques et des artistes du monde entier pour approfondir le dialogue entre les civilisations orientales et occidentales."
+            }
+        ]
+    },
+    "testimonial": {
+        "title": "Ce que disent nos visiteurs",
+        "items": [
+            {
+                "content": "Le MOECA est une fenêtre extraordinaire sur la civilisation orientale. La curation est réfléchie, les œuvres à couper le souffle. Une institution culturelle essentielle pour Montréal.",
+                "author": "Sophie Tremblay",
+                "location": "Montréal, Canada"
+            },
+            {
+                "content": "Les peintures de tigres à l'encre de Zhang Jinsheng sont comme rien de ce que j'ai vu auparavant. Une puissance brute et une tradition ancienne se rencontrent de manière inoubliable.",
+                "author": "Jean-François Morin",
+                "location": "Québec, Canada"
+            },
+            {
+                "content": "Un espace magnifique et inspirant. Le MOECA rapproche les cultures orientales et occidentales avec grâce et profondeur. La collection est véritablement exceptionnelle.",
+                "author": "Marie-Claire Dufour",
+                "location": "Montréal, Canada"
+            },
+            {
+                "content": "En tant que Sino-Canadien, le MOECA me fait me sentir chez moi. Il célèbre notre patrimoine culturel avec dignité et excellence artistique.",
+                "author": "Wang Jianguo",
+                "location": "Ottawa, Canada"
+            },
+            {
+                "content": "Je ne connaissais rien à la peinture à l'encre chinoise et je suis reparti complètement captivé. Une expérience à vivre absolument.",
+                "author": "Emma Beauchamp",
+                "location": "Montréal, Canada"
+            }
+        ]
+    },
+    "team": {
+        "title": "Artistes résidents",
+        "members": [
+            {
+                "name": "Zhang Jinsheng",
+                "role": "Encre projetée · Tigre"
+            },
+            {
+                "name": "Wang Moyuan",
+                "role": "Paysage · Oiseaux & Fleurs"
+            },
+            {
+                "name": "Chen Xuanzhi",
+                "role": "Calligraphie · Gravure"
+            },
+            {
+                "name": "Li Yunfeng",
+                "role": "Gongbi · Figures"
+            },
+            {
+                "name": "Zhou Bishan",
+                "role": "Couleurs projetées · Paysage"
+            },
+            {
+                "name": "Wu Huaimo",
+                "role": "Lavis · Floral"
+            }
+        ],
+        "banner_title": "Artistes résidents",
+        "banner_heading": "Le MOECA réunit des artistes distingués de Chine et d'Asie",
+        "banner_body": "Unis par une passion commune pour l'art oriental et le patrimoine culturel, nos artistes résidents utilisent l'encre et le pinceau pour rapprocher les civilisations."
+    },
+    "cta": {
+        "title": "Découvrez la Beauté de\nla Civilisation Orientale",
+        "button": "Contactez-nous"
+    },
+    "news": {
+        "title": "Actualités",
+        "posts": [
+            {
+                "category": "Exposition inaugurale",
+                "title": "Le Rugissement du Tigre — Première exposition de Zhang Jinsheng",
+                "author": "Rédaction MOECA",
+                "date": "Juin 2026"
+            },
+            {
+                "category": "Échanges culturels",
+                "title": "Centenaire Dafeng Tang : un dialogue entre héritage et innovation",
+                "author": "Rédaction MOECA",
+                "date": "Mai 2026"
+            },
+            {
+                "category": "Actualités",
+                "title": "Le MOECA officiellement constitué en personne morale fédérale",
+                "author": "Rédaction MOECA",
+                "date": "Juin 2026"
+            }
+        ]
+    },
+    "newsletter": {
+        "title": "Restez informé",
+        "desc": "Abonnez-vous à notre infolettre pour recevoir les dernières nouvelles sur les expositions et les événements culturels.",
+        "placeholder": "Votre adresse courriel",
+        "button": "S'abonner"
+    },
+    "offcanvas": {
+        "desc": "Musée canadien des cultures et des arts de l'Orient — dédié à la préservation, la recherche et la promotion des cultures et arts de l'Orient.",
+        "button": "Contactez-nous"
+    },
+    "contact_info": {
+        "address": "597, chemin de la Sirène\nMontréal, Canada"
+    },
+    "contact": {
+        "page_title": "Contactez-nous",
+        "intro": "Nous vous invitons à nous contacter au Musée canadien des cultures et des arts de l'Orient. Que vous ayez des questions sur nos expositions, souhaitiez explorer des opportunités de partenariat ou envisagiez une donation, nous serons ravis de vous répondre.",
+        "form_title": "Envoyer un message",
+        "name_placeholder": "Votre nom",
+        "email_placeholder": "Courriel",
+        "phone_placeholder": "Téléphone (optionnel)",
+        "message_placeholder": "Message",
+        "submit": "Envoyer",
+        "info_title": "Coordonnées",
+        "email_label": "Courriel",
+        "address_label": "Adresse",
+        "museum_name": "Musée Canadien des Cultures et des Arts de l'Orient (MOECA)",
+        "museum_name_fr": "Canadian Museum of Eastern Culture and Art",
+        "address": "597, chemin de la Sirène\nMontréal, Québec, Canada",
+        "success_msg": "✓ Message envoyé avec succès. Nous vous répondrons bientôt.",
+        "error_msg": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "history": {
+        "block1_title": "Incorporation du MOECA",
+        "block1_year": "Juin 2026",
+        "block1_desc": "Le musée est officiellement constitué en vertu de la Loi canadienne sur les organisations à but non lucratif, dédié à la préservation et la promotion des cultures et arts de l'Orient.",
+        "block2_title": "Exposition inaugurale",
+        "block2_year": "2026",
+        "block2_desc": "La première exposition du musée présente les peintures à l'encre et la calligraphie de Zhang Jinsheng, ouvrant un nouveau chapitre dans le dialogue culturel entre l'Orient et l'Occident.",
+        "block3_title": "Échanges culturels internationaux",
+        "block3_year": "Perspectives",
+        "block3_desc": "Le MOECA continue de développer des partenariats avec des musées, institutions et artistes du monde entier, portant la civilisation orientale sur la scène mondiale."
+    },
+    "about_hero": {
+        "title1": "Découvrez Notre",
+        "title2": "Vision et Nos Valeurs",
+        "subtitle": "Notre Histoire",
+        "p1": "Le MOECA — Musée canadien des cultures et des arts de l'Orient — est un organisme culturel sans but lucratif constitué en vertu des lois fédérales du Canada, établi à Montréal. Fondé pour rapprocher les civilisations orientales et occidentales, le musée est dédié à la préservation, la recherche et la promotion des cultures et arts de l'Orient.",
+        "p2": "Ancré dans les riches traditions de la culture chinoise tout en embrassant la diversité de l'Asie, le musée est un espace de dialogue, d'apprentissage et de compréhension mutuelle entre les cultures et les générations."
+    },
+    "why_choose": {
+        "title": "Pourquoi MOECA?",
+        "items": [
+            "Constitué en vertu des lois fédérales — crédibilité reconnue",
+            "Lignée authentique Dafeng Tang — patrimoine artistique profond",
+            "Établi à Montréal, au service de la communauté chinoise mondiale",
+            "Une plateforme de premier plan pour les échanges culturels Orient-Occident"
+        ]
+    },
+    "exhibitions_hero": {
+        "title1": "Découvrez Nos",
+        "title2": "Expositions",
+        "title3": "& Œuvres",
+        "tag1": "Encre & Tigre",
+        "tag2": "Paysage & Calligraphie",
+        "tag3": "Patrimoine Oriental",
+        "since": "Dep. 2026"
+    },
+    "featured": {
+        "title": "Œuvres en vedette",
+        "categories": [
+            {
+                "id": "tiger",
+                "label": "Peinture de tigre",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "Le Rugissement du Tigre"
+                    },
+                    {
+                        "number": "02",
+                        "title": "Esprit Souverain"
+                    },
+                    {
+                        "number": "03",
+                        "title": "Regard depuis le Rocher"
+                    }
+                ]
+            },
+            {
+                "id": "landscape",
+                "label": "Paysage & Calligraphie",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "Brume & Montagnes"
+                    },
+                    {
+                        "number": "02",
+                        "title": "Fleuves & Sommets"
+                    },
+                    {
+                        "number": "03",
+                        "title": "Rythme de l'encre"
+                    }
+                ]
+            },
+            {
+                "id": "eastern",
+                "label": "Art oriental",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "L'Héritage de Daqian"
+                    },
+                    {
+                        "number": "02",
+                        "title": "Une vie à l'encre"
+                    },
+                    {
+                        "number": "03",
+                        "title": "Patrimoine & Innovation"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "desc": "Musée Canadien des Cultures et des Arts de l'Orient\nMontréal, Canada",
+        "office_title": "Bureau",
+        "links_title": "Liens",
+        "contact_title": "Contactez-nous",
+        "links": [
+            {
+                "label": "À propos",
+                "href": "/about"
+            },
+            {
+                "label": "Expositions",
+                "href": "/exhibitions"
+            },
+            {
+                "label": "Actualités",
+                "href": "/blog"
+            },
+            {
+                "label": "Contact",
+                "href": "/contact"
+            }
+        ]
+    }
+}

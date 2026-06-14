@@ -1,0 +1,465 @@
+{
+    "hero": {
+        "title": "探索东方文明之美\n与世界相遇",
+        "subtitle": "加拿大东方文化艺术博物馆，立足蒙特利尔，面向国际。以中华文明为根基，汇聚亚洲多元艺术传统，致力于东方文化的收藏、研究与传播，搭建连接东方与西方、传统与现代的文化桥梁。"
+    },
+    "nav": {
+        "home": "首页",
+        "about": "关于我们",
+        "exhibitions": "展览与作品",
+        "artist": "艺术家",
+        "news": "新闻动态",
+        "contact": "联系我们",
+        "profile": "艺术家简介"
+    },
+    "marquee": [
+        "东方文明之美",
+        "探索与传承",
+        "连接东西方",
+        "加拿大东方文化艺术博物馆"
+    ],
+    "slider": {
+        "label": "当前展览",
+        "location_label": "地点",
+        "medium_label": "技法",
+        "style_label": "风格",
+        "artist_label": "艺术家",
+        "slides": [
+            {
+                "title": "虎啸山林",
+                "subtitle": "MOECA · Montréal",
+                "address": "蒙特利尔，加拿大",
+                "medium": "泼墨大写意",
+                "style": "写意走兽",
+                "artist": "张近生"
+            },
+            {
+                "title": "山水·人文",
+                "subtitle": "MOECA · Montréal",
+                "address": "蒙特利尔，加拿大",
+                "medium": "水墨山水",
+                "style": "山水",
+                "artist": "李文远"
+            },
+            {
+                "title": "威震八方",
+                "subtitle": "MOECA · Montréal",
+                "address": "蒙特利尔，加拿大",
+                "medium": "泼墨大写意",
+                "style": "写意走兽",
+                "artist": "张近生"
+            },
+            {
+                "title": "东方意境",
+                "subtitle": "MOECA · Montréal",
+                "address": "蒙特利尔，加拿大",
+                "medium": "泼墨写意",
+                "style": "写意走兽",
+                "artist": "王宣之"
+            }
+        ]
+    },
+    "services": {
+        "title": "馆藏方向",
+        "items": [
+            {
+                "number": "01",
+                "title": "中国书法与绘画",
+                "description": "以历代书法名迹与水墨绘画为核心，呈现中华文字艺术与笔墨美学的深厚传承。"
+            },
+            {
+                "number": "02",
+                "title": "走兽·虎画",
+                "description": "以张近生为代表的泼墨大写意走兽画，展现中国画中最具力量感与精神象征的艺术门类。"
+            },
+            {
+                "number": "03",
+                "title": "山水艺术",
+                "description": "汇聚历代山水画精品，以笔墨烟云诠释东方哲学中人与自然和谐共生的意境。"
+            },
+            {
+                "number": "04",
+                "title": "亚洲传统艺术",
+                "description": "涵盖陶瓷、青铜、织绣等亚洲各文明的器物遗珍，呈现东方文明多元璀璨的艺术面貌。"
+            },
+            {
+                "number": "05",
+                "title": "非物质文化遗产",
+                "description": "保护与传播传统手工艺、民俗艺术等非物质文化遗产，留存人类文明的活态记忆。"
+            },
+            {
+                "number": "06",
+                "title": "当代东方艺术",
+                "description": "聚焦当代艺术家以东方美学回应时代命题的创作实践，探索传统与现代的对话可能。"
+            }
+        ],
+        "section_title": "馆藏类型"
+    },
+    "about": {
+        "title": "关于",
+        "subtitle": "东方文化艺术博物馆",
+        "heading": "加拿大联邦注册非营利文化机构，专注东方文化艺术的收藏与传播",
+        "body": "立足蒙特利尔，面向国际。以中华文明为根基，汇聚亚洲多元艺术传统，致力于东方文化的收藏、研究与传播，搭建连接东方与西方、传统与现代的文化桥梁。",
+        "explore": "了解更多"
+    },
+    "counter": {
+        "artworks": "馆藏作品",
+        "artists": "驻馆艺术家",
+        "exhibitions": "展览场次",
+        "founded": "成立年份",
+        "founded_suffix": ""
+    },
+    "artist": {
+        "title": "当代水墨艺术家",
+        "born": "出生年份",
+        "origin": "籍贯",
+        "school": "师承",
+        "style": "艺术风格",
+        "studio": "堂号",
+        "based": "现居",
+        "active": "从艺年份",
+        "timeline_title": "艺术历程",
+        "timeline_subtitle": "数十年如一日，深耕东方水墨，传承文化精粹。",
+        "gallery_title": "作品集",
+        "about_title": "关于创作",
+        "about_text": "张近生的艺术不止于形似——每一幅虎作皆是人情的写照，以豪放不羁的笔墨倾诉喜怒哀乐。",
+        "about_heading": "开创泼墨写意虎——雄浑气魄与经典传承的交融。",
+        "about_body": "受张大千泼墨泼彩技法的启发，张近生发展出独特的水墨语言。笔下之虎，不仅是兽中之王，更是勇气、孤傲与人类情感的化身，墨色流淌如情感奔涌，酣畅淋漓。数十年来，他以虎为镜，照见人心，每一幅作品皆是与观者的无声对话，跨越语言与文化，直抵心灵。",
+        "brief": {
+            "born": "1955",
+            "origin": "河南省开封市",
+            "school": "大风堂（张大千、张善子传人）"
+        },
+        "info": {
+            "studio_label": "堂号",
+            "studio_value": "啸风堂",
+            "based_label": "现居",
+            "based_value": "蒙特利尔，加拿大",
+            "active_label": "从艺年份",
+            "active_value": "1970 年至今"
+        },
+        "bio": "大风堂第二代弟子，张大千、张善子艺术传承人。张近生五十余年潜心于中国水墨画，以泼墨大写意画虎著称，被誉为'中原第一虎'。其画虎不求形似，重在传神，将人的喜怒哀乐融入笔墨，赋予作品深刻的人文内涵。",
+        "timeline": [
+            {
+                "year": "1970",
+                "event": "师从大风堂入室弟子李宝铎，专攻走兽画"
+            },
+            {
+                "year": "1995",
+                "event": "举办「张近生百虎画展」，郑州"
+            },
+            {
+                "year": "2003",
+                "event": "《张近生画虎》画集由河南美术出版社出版"
+            },
+            {
+                "year": "2004",
+                "event": "赴台举办展览，捐赠珍贵文献至台北故宫博物院"
+            },
+            {
+                "year": "2007",
+                "event": "上海书画展，张大千之女张心庆出席"
+            },
+            {
+                "year": "2023",
+                "event": "上海开设个人艺术馆，举办书画作品展，获各界藏家与媒体广泛关注"
+            }
+        ],
+        "gallery_captions": [
+            "写意虎系列",
+            "山水小景",
+            "虎与竹",
+            "泼墨习作",
+            "烟云中的虎"
+        ]
+    },
+    "projects": {
+        "items": [
+            {
+                "title": "虎啸山林",
+                "category": "走兽·泼墨"
+            },
+            {
+                "title": "俯瞰展厅",
+                "category": "展览空间"
+            },
+            {
+                "title": "翰墨长卷",
+                "category": "书法·长卷"
+            },
+            {
+                "title": "百兽图",
+                "category": "走兽·综合"
+            }
+        ]
+    },
+    "process": {
+        "title": "我们的使命",
+        "items": [
+            {
+                "num": "01",
+                "title": "收藏",
+                "desc": "系统收藏东方文化艺术珍品，建立具有学术价值与历史意义的馆藏体系，为后世保存人类文明的精华。"
+            },
+            {
+                "num": "02",
+                "title": "研究",
+                "desc": "深入研究东方艺术的历史脉络、美学体系与文化内涵，推动学术成果的积累与传播。"
+            },
+            {
+                "num": "03",
+                "title": "展览",
+                "desc": "策划高水准展览，将东方文明的艺术之美呈现于国际观众面前，促进跨文化的视觉对话。"
+            },
+            {
+                "num": "04",
+                "title": "教育",
+                "desc": "开展多元公共教育项目，让不同年龄与背景的观众深入了解东方文化的精神价值与历史渊源。"
+            },
+            {
+                "num": "05",
+                "title": "国际交流",
+                "desc": "与全球博物馆、学术机构及艺术家建立合作，推动东西方文明之间的深度交流与相互启发。"
+            }
+        ]
+    },
+    "testimonial": {
+        "title": "观众心声",
+        "items": [
+            {
+                "content": "MOECA的展览让我第一次真正感受到了东方水墨的震撼力。张近生先生的虎画气势磅礴，置身展厅仿佛能感受到千年文明的呼吸。",
+                "author": "陈慧玲",
+                "location": "蒙特利尔，加拿大"
+            },
+            {
+                "content": "作为一个在加拿大生活多年的华人，MOECA让我感到久违的文化归属感。这里不只是博物馆，更是心灵的故乡。",
+                "author": "王建国",
+                "location": "渥太华，加拿大"
+            },
+            {
+                "content": "The ink tiger paintings by Zhang Jinsheng are unlike anything I have seen before. Raw power and ancient tradition meet in a way that is truly unforgettable.",
+                "author": "Sophie Tremblay",
+                "location": "Montréal, Canada"
+            },
+            {
+                "content": "An exceptional cultural institution. MOECA bridges two worlds with grace and scholarship. I left with a profound appreciation for Eastern art.",
+                "author": "Michael Chen",
+                "location": "Toronto, Canada"
+            },
+            {
+                "content": "每一幅作品背后都有深厚的历史与情感，策展团队的用心让观展体验远超预期。强烈推荐给所有热爱艺术的朋友。",
+                "author": "林晓燕",
+                "location": "温哥华，加拿大"
+            }
+        ]
+    },
+    "team": {
+        "title": "驻馆艺术家",
+        "members": [
+            {
+                "name": "张近生",
+                "role": "泼墨走兽·虎画"
+            },
+            {
+                "name": "王墨远",
+                "role": "山水·花鸟"
+            },
+            {
+                "name": "陈宣之",
+                "role": "书法·篆刻"
+            },
+            {
+                "name": "李云峰",
+                "role": "工笔·人物"
+            },
+            {
+                "name": "周笔山",
+                "role": "泼彩·山水"
+            },
+            {
+                "name": "吴怀墨",
+                "role": "水墨·花卉"
+            }
+        ],
+        "banner_title": "驻馆艺术家",
+        "banner_heading": "MOECA汇聚了来自中国及亚洲各地的杰出书画家",
+        "banner_body": "他们以艺术为语言，以笔墨为纽带，致力于传承东方文明的精髓，推动东西方文化的深度交流与对话。"
+    },
+    "cta": {
+        "title": "探索东方文明之美\n欢迎莅临参观",
+        "button": "联系我们"
+    },
+    "news": {
+        "title": "展览动态",
+        "posts": [
+            {
+                "category": "开幕展览",
+                "title": "虎啸山林——张近生泼墨走兽画首展",
+                "author": "MOECA 编辑部",
+                "date": "2026年6月"
+            },
+            {
+                "category": "文化交流",
+                "title": "大风堂百年纪念：传承与创新的对话",
+                "author": "MOECA 编辑部",
+                "date": "2026年5月"
+            },
+            {
+                "category": "媒体报道",
+                "title": "加拿大东方文化艺术博物馆正式注册成立",
+                "author": "MOECA 编辑部",
+                "date": "2026年6月"
+            }
+        ]
+    },
+    "newsletter": {
+        "title": "关注最新展览动态",
+        "desc": "订阅我们的电子通讯，第一时间获取展览预告、文化活动及博物馆最新资讯。",
+        "placeholder": "请输入您的邮箱",
+        "button": "订阅"
+    },
+    "offcanvas": {
+        "desc": "加拿大东方文化艺术博物馆——致力于东方文化艺术的收藏、研究与传播。",
+        "button": "联系我们"
+    },
+    "contact_info": {
+        "address": "597, chemin de la Sirène\n蒙特利尔，加拿大"
+    },
+    "contact": {
+        "page_title": "联系我们",
+        "intro": "欢迎与加拿大东方文化艺术博物馆联系。无论您对展览有疑问、希望洽谈合作，或有意捐赠藏品，我们都期待您的来信。我们将尽快回复您的咨询。",
+        "form_title": "发送留言",
+        "name_placeholder": "您的姓名",
+        "email_placeholder": "电子邮箱",
+        "phone_placeholder": "联系电话（选填）",
+        "message_placeholder": "留言内容",
+        "submit": "发送",
+        "info_title": "联系信息",
+        "email_label": "电子邮箱",
+        "address_label": "地址",
+        "museum_name": "加拿大东方文化艺术博物馆",
+        "museum_name_fr": "Musée Canadien des Cultures et des Arts de l'Orient",
+        "address": "597, chemin de la Sirène\n蒙特利尔，魁北克，加拿大",
+        "success_msg": "✓ 留言发送成功，我们将尽快回复您。",
+        "error_msg": "发送失败，请稍后重试。"
+    },
+    "history": {
+        "block1_title": "MOECA 正式注册成立",
+        "block1_year": "2026年6月",
+        "block1_desc": "博物馆依据《加拿大非营利法人法》正式注册，致力于东方文化艺术的收藏、研究、展览与传播。",
+        "block2_title": "张近生书画艺术展",
+        "block2_year": "2026年",
+        "block2_desc": "博物馆首届展览，展出大风堂传人张近生的泼墨走兽画与书法精品，开启东西方文化交流的序章。",
+        "block3_title": "国际文化合作",
+        "block3_year": "展望未来",
+        "block3_desc": "博物馆将持续与全球博物馆、学术机构及艺术家建立合作关系，推动东方文明走向国际舞台。"
+    },
+    "about_hero": {
+        "title1": "探索",
+        "title2": "使命与愿景",
+        "subtitle": "关于我们",
+        "p1": "加拿大东方文化艺术博物馆（MOECA）是一家经加拿大联邦政府注册成立的非营利文化机构，立足蒙特利尔，致力于东方文化艺术的收藏、研究、展示与传播，以促进不同文明之间的理解、交流与共融为使命。",
+        "p2": "以中华文明为重要根基，同时关注亚洲各国丰富多元的文化遗产与艺术传统，博物馆致力于成为连接东方与西方、传统与现代的文化桥梁，让东方文明的精神价值与艺术成就在全球语境中焕发新的生命力。"
+    },
+    "why_choose": {
+        "title": "为何选择 MOECA？",
+        "items": [
+            "加拿大联邦注册，具有法律公信力",
+            "大风堂正统传承，艺术谱系深厚",
+            "立足蒙特利尔，服务全球华人社区",
+            "东西方文化交流的重要平台"
+        ]
+    },
+    "exhibitions_hero": {
+        "title1": "探索",
+        "title2": "展览与",
+        "title3": "艺术作品",
+        "tag1": "水墨走兽",
+        "tag2": "山水书画",
+        "tag3": "东方文明",
+        "since": "2026年起"
+    },
+    "featured": {
+        "title": "精选作品",
+        "categories": [
+            {
+                "id": "tiger",
+                "label": "虎画走兽",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "虎啸山林"
+                    },
+                    {
+                        "number": "02",
+                        "title": "威震八方"
+                    },
+                    {
+                        "number": "03",
+                        "title": "踞石望远"
+                    }
+                ]
+            },
+            {
+                "id": "landscape",
+                "label": "山水书画",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "烟云深处"
+                    },
+                    {
+                        "number": "02",
+                        "title": "山河万里"
+                    },
+                    {
+                        "number": "03",
+                        "title": "墨韵江南"
+                    }
+                ]
+            },
+            {
+                "id": "eastern",
+                "label": "东方艺术",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "大千遗风"
+                    },
+                    {
+                        "number": "02",
+                        "title": "笔墨人生"
+                    },
+                    {
+                        "number": "03",
+                        "title": "传承与创新"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "desc": "加拿大东方文化艺术博物馆\n蒙特利尔，加拿大",
+        "office_title": "地址",
+        "links_title": "导航",
+        "contact_title": "联系我们",
+        "links": [
+            {
+                "label": "关于我们",
+                "href": "/about"
+            },
+            {
+                "label": "展览与作品",
+                "href": "/exhibitions"
+            },
+            {
+                "label": "新闻动态",
+                "href": "/blog"
+            },
+            {
+                "label": "联系我们",
+                "href": "/contact"
+            }
+        ]
+    }
+}

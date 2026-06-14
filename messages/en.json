@@ -1,0 +1,465 @@
+{
+    "hero": {
+        "title": "Where Eastern Heritage\nMeets the World",
+        "subtitle": "Preserving Heritage. Inspiring Dialogue. Bridging Cultures."
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "exhibitions": "Exhibitions",
+        "artist": "Artist",
+        "news": "News",
+        "contact": "Contact",
+        "profile": "Profile"
+    },
+    "marquee": [
+        "Eastern Cultural Heritage",
+        "Explore & Preserve",
+        "Bridging Cultures",
+        "MOECA · Montréal"
+    ],
+    "slider": {
+        "label": "Current Exhibition",
+        "location_label": "Location",
+        "medium_label": "Medium",
+        "style_label": "Style",
+        "artist_label": "Artist",
+        "slides": [
+            {
+                "title": "Tiger's Roar",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Splash Ink",
+                "style": "Tiger & Wildlife",
+                "artist": "Zhang Jinsheng"
+            },
+            {
+                "title": "Ink & Humanity",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Chinese Ink Landscape",
+                "style": "Landscape",
+                "artist": "Li Wenyuan"
+            },
+            {
+                "title": "Sovereign Spirit",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Splash Ink",
+                "style": "Tiger & Wildlife",
+                "artist": "Zhang Jinsheng"
+            },
+            {
+                "title": "Eastern Reverie",
+                "subtitle": "MOECA · Montréal",
+                "address": "Montréal, Canada",
+                "medium": "Expressive Ink",
+                "style": "Tiger & Wildlife",
+                "artist": "Wang Xuanzhi"
+            }
+        ]
+    },
+    "services": {
+        "title": "Our Collections",
+        "items": [
+            {
+                "number": "01",
+                "title": "Chinese Calligraphy & Painting",
+                "description": "Historic scrolls and ink paintings that embody the depth of Chinese literary and visual culture across the centuries."
+            },
+            {
+                "number": "02",
+                "title": "Animal Painting · Tiger",
+                "description": "Expressive splash-ink animal paintings led by Zhang Jinsheng, celebrating one of Chinese art's most powerful symbolic traditions."
+            },
+            {
+                "number": "03",
+                "title": "Landscape Ink Art",
+                "description": "Masterworks of Chinese landscape painting, where brushwork and mist evoke the Eastern philosophy of harmony between humanity and nature."
+            },
+            {
+                "number": "04",
+                "title": "Asian Traditional Arts",
+                "description": "Ceramics, bronzeware, silk embroidery and heritage objects spanning Asia's great civilizations, presented in contemporary context."
+            },
+            {
+                "number": "05",
+                "title": "Intangible Heritage",
+                "description": "Preserving and promoting traditional crafts, folk arts and living cultural practices as vital threads of human civilization."
+            },
+            {
+                "number": "06",
+                "title": "Contemporary Eastern Art",
+                "description": "Works by contemporary artists who engage Eastern aesthetics to address modern questions, bridging tradition and innovation."
+            }
+        ],
+        "section_title": "Collection Types"
+    },
+    "about": {
+        "title": "About",
+        "subtitle": "MOECA",
+        "heading": "A federally incorporated non-profit institution dedicated to Eastern cultures and arts",
+        "body": "Based in Montréal and serving an international audience, MOECA fosters intercultural understanding by presenting the artistic, historical, and intellectual heritage of Eastern civilizations. Rooted in the rich traditions of Chinese culture while embracing the diversity of Asia.",
+        "explore": "Explore More"
+    },
+    "counter": {
+        "artworks": "Artworks in Collection",
+        "artists": "Resident Artists",
+        "exhibitions": "Exhibitions Held",
+        "founded": "Founded",
+        "founded_suffix": ""
+    },
+    "artist": {
+        "title": "Contemporary Ink Artist",
+        "born": "Born",
+        "origin": "Origin",
+        "school": "School",
+        "style": "Style",
+        "studio": "Studio Name",
+        "based": "Based in",
+        "active": "Active Since",
+        "timeline_title": "Timeline",
+        "timeline_subtitle": "A lifetime dedicated to Eastern ink art and cultural exchange.",
+        "gallery_title": "Gallery",
+        "about_title": "About the Work",
+        "about_text": "Zhang Jinsheng's art transcends mere representation — each tiger is a portrait of human emotion, rendered through bold, uninhibited brushwork.",
+        "about_heading": "Pioneering the splash-ink tiger — where raw energy meets classical tradition.",
+        "about_body": "Inspired by Zhang Daqian's revolutionary splash-ink technique, Zhang Jinsheng developed his own expressive vocabulary. His tigers embody courage, solitude, and the full spectrum of human feeling, rendered with ink that flows as freely as emotion itself. Over decades of practice, he has used the tiger as a mirror to reflect the human condition — each work a silent dialogue with the viewer, transcending language and culture to reach the soul.",
+        "brief": {
+            "born": "1955",
+            "origin": "Kaifeng, Henan, China",
+            "school": "Dafeng Tang — lineage of Zhang Daqian"
+        },
+        "info": {
+            "studio_label": "Studio Name",
+            "studio_value": "Xiaofeng Tang",
+            "based_label": "Based in",
+            "based_value": "Montréal, Canada",
+            "active_label": "Active Since",
+            "active_value": "1970"
+        },
+        "bio": "A second-generation disciple of the legendary Dafeng Tang school — the artistic lineage of Zhang Daqian and Zhang Shanzi — Zhang Jinsheng has dedicated over fifty years to the art of Chinese ink painting. Renowned for his expressive splash-ink tigers, he is widely acclaimed as the foremost tiger painter of the Central Plains.",
+        "timeline": [
+            {
+                "year": "1970",
+                "event": "Studied under Li Baoduo, joined Dafeng Tang lineage"
+            },
+            {
+                "year": "1995",
+                "event": "Solo exhibition: One Hundred Tigers, Zhengzhou"
+            },
+            {
+                "year": "2003",
+                "event": "Published monograph Zhang Jinsheng Paints Tigers"
+            },
+            {
+                "year": "2004",
+                "event": "Exhibition in Taipei; donated documents to National Palace Museum"
+            },
+            {
+                "year": "2007",
+                "event": "Shanghai exhibition attended by Zhang Xinqing, daughter of Zhang Daqian"
+            },
+            {
+                "year": "2023",
+                "event": "Opened personal art gallery in Shanghai, held a calligraphy and painting exhibition to wide acclaim from collectors and media"
+            }
+        ],
+        "gallery_captions": [
+            "Ink Tiger Series",
+            "Mountain Landscape",
+            "Tiger & Bamboo",
+            "Splash Ink Study",
+            "Tiger in Mist"
+        ]
+    },
+    "projects": {
+        "items": [
+            {
+                "title": "Tiger's Descent",
+                "category": "Ink · Tiger"
+            },
+            {
+                "title": "Gallery Overview",
+                "category": "Exhibition Space"
+            },
+            {
+                "title": "Ink Calligraphy Scroll",
+                "category": "Calligraphy"
+            },
+            {
+                "title": "Beasts of the Orient",
+                "category": "Ink · Animals"
+            }
+        ]
+    },
+    "process": {
+        "title": "Our Mission",
+        "items": [
+            {
+                "num": "01",
+                "title": "Collection",
+                "desc": "Systematically acquiring Eastern cultural artworks of scholarly and historical significance, preserving the finest expressions of human civilization for future generations."
+            },
+            {
+                "num": "02",
+                "title": "Research",
+                "desc": "Conducting in-depth research into the history, aesthetics and cultural meaning of Eastern art, advancing academic knowledge and its dissemination."
+            },
+            {
+                "num": "03",
+                "title": "Exhibition",
+                "desc": "Curating high-calibre exhibitions that present the artistic beauty of Eastern civilization to international audiences, fostering cross-cultural visual dialogue."
+            },
+            {
+                "num": "04",
+                "title": "Education",
+                "desc": "Developing diverse public education programmes that help audiences of all ages and backgrounds engage with the spiritual values and historical roots of Eastern culture."
+            },
+            {
+                "num": "05",
+                "title": "International Exchange",
+                "desc": "Building partnerships with museums, academic institutions and artists worldwide to deepen dialogue and mutual inspiration between Eastern and Western civilizations."
+            }
+        ]
+    },
+    "testimonial": {
+        "title": "What Visitors Say",
+        "items": [
+            {
+                "content": "MOECA's exhibitions are a remarkable window into Eastern civilization. The curation is thoughtful, the artworks breathtaking. An essential cultural institution for Montréal.",
+                "author": "Sophie Tremblay",
+                "location": "Montréal, Canada"
+            },
+            {
+                "content": "The ink tiger paintings by Zhang Jinsheng are unlike anything I have seen before. Raw power and ancient tradition meet in a way that is truly unforgettable.",
+                "author": "Michael Chen",
+                "location": "Toronto, Canada"
+            },
+            {
+                "content": "A beautiful and inspiring space. MOECA bridges Eastern and Western cultures with grace and depth. The collection of works by Zhang Jinsheng is extraordinary.",
+                "author": "David Laurent",
+                "location": "Québec City, Canada"
+            },
+            {
+                "content": "As a Chinese-Canadian, MOECA feels like home. It celebrates our cultural heritage with dignity and artistic excellence. I return every season.",
+                "author": "Wang Jianguo",
+                "location": "Ottawa, Canada"
+            },
+            {
+                "content": "I came in knowing nothing about Chinese ink painting and left completely captivated. The guides are knowledgeable and the atmosphere is both serene and powerful.",
+                "author": "Emma Beauchamp",
+                "location": "Montréal, Canada"
+            }
+        ]
+    },
+    "team": {
+        "title": "Resident Artists",
+        "members": [
+            {
+                "name": "Zhang Jinsheng",
+                "role": "Splash Ink · Tiger Painting"
+            },
+            {
+                "name": "Wang Moyuan",
+                "role": "Landscape · Bird & Flower"
+            },
+            {
+                "name": "Chen Xuanzhi",
+                "role": "Calligraphy · Seal Carving"
+            },
+            {
+                "name": "Li Yunfeng",
+                "role": "Gongbi · Figure Painting"
+            },
+            {
+                "name": "Zhou Bishan",
+                "role": "Splash Color · Landscape"
+            },
+            {
+                "name": "Wu Huaimo",
+                "role": "Ink Wash · Floral"
+            }
+        ],
+        "banner_title": "Resident Artists",
+        "banner_heading": "MOECA brings together distinguished artists from China and across Asia",
+        "banner_body": "United by a shared dedication to Eastern art and cultural heritage, our resident artists use ink and brush to bridge civilizations and inspire dialogue across borders."
+    },
+    "cta": {
+        "title": "Discover the Beauty of\nEastern Civilization",
+        "button": "Contact Us"
+    },
+    "news": {
+        "title": "Exhibition News",
+        "posts": [
+            {
+                "category": "Opening Exhibition",
+                "title": "Tiger's Roar — Zhang Jinsheng Splash Ink Debut",
+                "author": "MOECA Editorial",
+                "date": "June 2026"
+            },
+            {
+                "category": "Cultural Exchange",
+                "title": "Dafeng Tang Centenary: A Dialogue of Heritage and Innovation",
+                "author": "MOECA Editorial",
+                "date": "May 2026"
+            },
+            {
+                "category": "News",
+                "title": "MOECA Officially Incorporated as a Federal Non-Profit",
+                "author": "MOECA Editorial",
+                "date": "June 2026"
+            }
+        ]
+    },
+    "newsletter": {
+        "title": "Stay Updated",
+        "desc": "Subscribe to our newsletter to receive the latest exhibition previews, cultural events and museum news.",
+        "placeholder": "Your email address",
+        "button": "Subscribe"
+    },
+    "offcanvas": {
+        "desc": "Canadian Museum of Eastern Culture and Art — dedicated to the preservation, research, and promotion of Eastern cultures and arts.",
+        "button": "Get In Touch"
+    },
+    "contact_info": {
+        "address": "597, chemin de la Sirène\nMontréal, Canada"
+    },
+    "contact": {
+        "page_title": "Contact Us",
+        "intro": "We welcome your enquiries at the Canadian Museum of Eastern Culture and Art. Whether you have questions about our exhibitions, wish to explore partnership opportunities, or are interested in donating to our collection, we look forward to hearing from you.",
+        "form_title": "Submit Form",
+        "name_placeholder": "Your Name",
+        "email_placeholder": "Email",
+        "phone_placeholder": "Phone Number (optional)",
+        "message_placeholder": "Message",
+        "submit": "Submit",
+        "info_title": "Contact Info",
+        "email_label": "Email",
+        "address_label": "Address",
+        "museum_name": "Canadian Museum of Eastern Culture and Art (MOECA)",
+        "museum_name_fr": "Musée Canadien des Cultures et des Arts de l'Orient",
+        "address": "597, chemin de la Sirène\nMontréal, Québec, Canada",
+        "success_msg": "✓ Message sent successfully. We'll get back to you soon.",
+        "error_msg": "Something went wrong. Please try again."
+    },
+    "history": {
+        "block1_title": "MOECA Incorporated",
+        "block1_year": "June 2026",
+        "block1_desc": "The Museum is officially incorporated under the Canada Not-for-profit Corporations Act, dedicated to the preservation, research, exhibition and promotion of Eastern cultures and arts.",
+        "block2_title": "Inaugural Exhibition",
+        "block2_year": "2026",
+        "block2_desc": "The Museum's first exhibition features splash-ink paintings and calligraphy by Zhang Jinsheng, a master of the Dafeng Tang lineage, opening a new chapter in East-West cultural dialogue.",
+        "block3_title": "International Cultural Exchange",
+        "block3_year": "Looking Ahead",
+        "block3_desc": "MOECA continues to build partnerships with museums, academic institutions and artists worldwide, bringing Eastern civilization to the global stage."
+    },
+    "about_hero": {
+        "title1": "Learn About Our",
+        "title2": "Vision and Values",
+        "subtitle": "Our History",
+        "p1": "MOECA — Canadian Museum of Eastern Culture and Art — is a federally incorporated non-profit cultural institution established in Montréal, Canada. Founded to bridge Eastern and Western civilizations, the Museum is dedicated to the preservation, research, and promotion of Eastern cultures and arts.",
+        "p2": "Rooted in the rich traditions of Chinese culture while embracing the full diversity of Asia, the Museum serves as a platform for dialogue, learning, and shared understanding across cultures and generations."
+    },
+    "why_choose": {
+        "title": "Why Choose MOECA?",
+        "items": [
+            "Federally incorporated — legally recognized & accountable",
+            "Authentic Dafeng Tang lineage — deep artistic heritage",
+            "Based in Montréal, serving the global Chinese community",
+            "A leading platform for East-West cultural exchange"
+        ]
+    },
+    "exhibitions_hero": {
+        "title1": "Discover Our",
+        "title2": "Exhibitions",
+        "title3": "& Artworks",
+        "tag1": "Ink & Tiger",
+        "tag2": "Landscape & Calligraphy",
+        "tag3": "Eastern Heritage",
+        "since": "Est. 2026"
+    },
+    "featured": {
+        "title": "Featured Works",
+        "categories": [
+            {
+                "id": "tiger",
+                "label": "Tiger Painting",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "Tiger's Roar"
+                    },
+                    {
+                        "number": "02",
+                        "title": "Sovereign Spirit"
+                    },
+                    {
+                        "number": "03",
+                        "title": "Watching from the Rock"
+                    }
+                ]
+            },
+            {
+                "id": "landscape",
+                "label": "Landscape & Calligraphy",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "Mist & Mountains"
+                    },
+                    {
+                        "number": "02",
+                        "title": "Rivers & Peaks"
+                    },
+                    {
+                        "number": "03",
+                        "title": "Ink Rhythm"
+                    }
+                ]
+            },
+            {
+                "id": "eastern",
+                "label": "Eastern Art",
+                "projects": [
+                    {
+                        "number": "01",
+                        "title": "Legacy of Daqian"
+                    },
+                    {
+                        "number": "02",
+                        "title": "A Life in Ink"
+                    },
+                    {
+                        "number": "03",
+                        "title": "Heritage & Innovation"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "desc": "Canadian Museum of Eastern Culture and Art\nMontréal, Canada",
+        "office_title": "Office",
+        "links_title": "Links",
+        "contact_title": "Get in Touch",
+        "links": [
+            {
+                "label": "About",
+                "href": "/about"
+            },
+            {
+                "label": "Exhibitions",
+                "href": "/exhibitions"
+            },
+            {
+                "label": "News",
+                "href": "/blog"
+            },
+            {
+                "label": "Contact",
+                "href": "/contact"
+            }
+        ]
+    }
+}
