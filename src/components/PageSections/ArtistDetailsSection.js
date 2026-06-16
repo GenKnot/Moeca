@@ -1,13 +1,13 @@
 "use client";
 
 import { useTranslations, useLocale } from "next-intl";
-import projectDetailsImage from "@/assets/img/project/project-details.jpg";
-import solutionsImg from "@/assets/img/project/solutions-img.jpg";
-import gallery1 from "@/assets/img/project/gallery-1.jpg";
-import gallery2 from "@/assets/img/project/gallery-2.jpg";
-import gallery3 from "@/assets/img/project/gallery-3.jpg";
-import gallery4 from "@/assets/img/project/gallery-4.jpg";
-import gallery5 from "@/assets/img/project/gallery-5.jpg";
+import projectDetailsImage from "@/assets/img/zhang/artist-portrait-detail.jpg";
+import solutionsImg from "@/assets/img/zhang/artist-work-tall.jpg";
+import gallery1 from "@/assets/img/zhang/gallery-tiger-square.jpg";
+import gallery2 from "@/assets/img/zhang/gallery-landscape-square.jpg";
+import gallery3 from "@/assets/img/zhang/gallery-lotus-square.jpg";
+import gallery4 from "@/assets/img/zhang/gallery-calligraphy-square.jpg";
+import gallery5 from "@/assets/img/zhang/gallery-animal-square.jpg";
 
 const galleryImgs = [gallery1, gallery2, gallery3, gallery4];
 const galleryBig = gallery5;

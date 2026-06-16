@@ -1,4 +1,4 @@
-import team1 from "@/assets/img/team/1.jpg";
+import team1 from "@/assets/img/zhang/artist-portrait-square.jpg";
 
 // 所有 slug 都指向张近生的真实信息
 // 等未来有真实艺术家入驻再逐一替换

@@ -1,57 +1,54 @@
 "use client";
 
-import Image from "next/image";
-import Slider from "react-slick"
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
-import {clients} from "@/data/client";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
+
+const quickLinks = [
+    { id: 1, labelKey: "zhang_jinsheng", href: "/artist/zhang-jinsheng" },
+    { id: 2, labelKey: "about", href: "/about" },
+    { id: 3, labelKey: "exhibitions", href: "/exhibitions" },
+    { id: 4, labelKey: "gallery", href: "/exhibitions#artwork-gallery" },
+    { id: 5, labelKey: "contact", href: "/contact" },
+];
 
 export default function ClientSection({ customClass}) {
-    // Carousel settings
-    const settings = {
-        dots: false,
-        infinite: true,
-        speed: 500,
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 2000,
-        responsive: [
-            {
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                },
-            },
-            {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 2,
-                },
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                },
-            },
-        ],
-    };
+    const t = useTranslations("nav");
 
     return (
         <div className={`client-area section-padding ${customClass}`}>
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-12">
-                        <Slider {...settings} className="client-wrap">
-                            {clients.map((client) => (
-                                <div key={client.id} className="single-client">
-                                    <a href={client.link}>
-                                        <Image src={client.img} alt={`Client ${client.id}`} style={{height: 'auto'}}/>
-                                    </a>
+                        <div
+                            className="client-wrap"
+                            style={{
+                                display: "grid",
+                                gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))",
+                                alignItems: "center",
+                                gap: "24px",
+                            }}
+                        >
+                            {quickLinks.map((item) => (
+                                <div key={item.id} className="single-client" style={{ width: "auto", marginLeft: 0 }}>
+                                    <Link
+                                        href={item.href}
+                                        style={{
+                                            display: "block",
+                                            width: "100%",
+                                            textAlign: "center",
+                                            fontFamily: "Georgia, 'Times New Roman', serif",
+                                            fontStyle: "italic",
+                                            fontSize: "32px",
+                                            lineHeight: 1.2,
+                                            color: "#7a7a7a",
+                                            textDecoration: "none",
+                                        }}
+                                    >
+                                        {t(item.labelKey)}
+                                    </Link>
                                 </div>
                             ))}
-                        </Slider>
+                        </div>
                     </div>
                 </div>
             </div>

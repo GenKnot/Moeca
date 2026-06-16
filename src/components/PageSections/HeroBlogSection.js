@@ -1,9 +1,9 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import blog1 from "@/assets/img/blog/blog-1.jpg";
-import blog2 from "@/assets/img/blog/blog-5.jpg";
-import blog3 from "@/assets/img/blog/blog-3.jpg";
+import blog1 from "@/assets/img/zhang/blog-exhibition-card.jpg";
+import blog2 from "@/assets/img/zhang/project-landscape.jpg";
+import blog3 from "@/assets/img/zhang/project-tiger.jpg";
 
 const images = [blog1, blog2, blog3];
 

@@ -30,3 +30,4 @@ yarn-error.log*
 
 # Source assets (raw files, too large for git)
 source/
+/new

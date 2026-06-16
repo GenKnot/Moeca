@@ -3,12 +3,12 @@
 import { useState, useEffect } from "react";
 import { createPortal } from "react-dom";
 import { useTranslations } from "next-intl";
-import projectImg1 from "@/assets/img/project/2-1.jpg";
-import projectImg2 from "@/assets/img/project/2-2.jpg";
-import projectImg3 from "@/assets/img/project/2-3.jpg";
-import projectImg4 from "@/assets/img/project/2-4.jpg";
+import projectImg1 from "@/assets/img/zhang/project-tiger.jpg";
+import projectImg2 from "@/assets/img/zhang/project-landscape.jpg";
+import projectImg3 from "@/assets/img/zhang/project-calligraphy.jpg";
+import projectImg4 from "@/assets/img/zhang/project-animals.jpg";
 
-const images = [projectImg1, projectImg2, projectImg4, projectImg3];
+const images = [projectImg1, projectImg2, projectImg3, projectImg4];
 const layouts = [
     "col-xl-7 col-lg-7 col-md-6",
     "col-xl-5 col-lg-5 col-md-6",

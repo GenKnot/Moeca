@@ -1,15 +1,15 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import img1 from "@/assets/img/project/3-1.jpg";
-import img2 from "@/assets/img/project/3-2.jpg";
-import img3 from "@/assets/img/project/3-3.jpg";
-import img4 from "@/assets/img/project/3-4.jpg";
-import img5 from "@/assets/img/project/3-5.jpg";
-import img6 from "@/assets/img/project/3-6.jpg";
-import img7 from "@/assets/img/project/3-7.jpg";
-import img8 from "@/assets/img/project/3-8.jpg";
-import img9 from "@/assets/img/project/3-9.jpg";
+import img1 from "@/assets/img/zhang/masonry-01-tiger.jpg";
+import img2 from "@/assets/img/zhang/masonry-02-tiger.jpg";
+import img3 from "@/assets/img/zhang/masonry-03-tiger.jpg";
+import img4 from "@/assets/img/zhang/masonry-04-landscape.jpg";
+import img5 from "@/assets/img/zhang/masonry-05-landscape.jpg";
+import img6 from "@/assets/img/zhang/masonry-06-lotus.jpg";
+import img7 from "@/assets/img/zhang/masonry-07-lotus.jpg";
+import img8 from "@/assets/img/zhang/masonry-08-calligraphy.jpg";
+import img9 from "@/assets/img/zhang/masonry-09-horse.jpg";
 
 const artworks = [
     { img: img1, title: null },

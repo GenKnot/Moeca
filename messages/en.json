@@ -5,11 +5,13 @@
     },
     "nav": {
         "home": "Home",
+        "zhang_jinsheng": "Zhang Jinsheng",
         "about": "About",
         "exhibitions": "Exhibitions",
         "artist": "Artist",
         "news": "News",
         "contact": "Contact",
+        "gallery": "Gallery",
         "profile": "Profile"
     },
     "marquee": [
@@ -26,36 +28,36 @@
         "artist_label": "Artist",
         "slides": [
             {
-                "title": "Tiger's Roar",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
+                "title": "Gentle Tigers in Montréal",
+                "subtitle": "Legacy of Daqian · Zhang Jinsheng Exhibition",
+                "address": "La Prairie, Québec",
                 "medium": "Splash Ink",
-                "style": "Tiger & Wildlife",
+                "style": "Meng Hu Tiger Series",
                 "artist": "Zhang Jinsheng"
             },
             {
-                "title": "Ink & Humanity",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
-                "medium": "Chinese Ink Landscape",
+                "title": "Mountains in Mist",
+                "subtitle": "Legacy of Daqian · Zhang Jinsheng Exhibition",
+                "address": "La Prairie, Québec",
+                "medium": "Splash Ink & Color",
                 "style": "Landscape",
-                "artist": "Li Wenyuan"
-            },
-            {
-                "title": "Sovereign Spirit",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
-                "medium": "Splash Ink",
-                "style": "Tiger & Wildlife",
                 "artist": "Zhang Jinsheng"
             },
             {
-                "title": "Eastern Reverie",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
-                "medium": "Expressive Ink",
-                "style": "Tiger & Wildlife",
-                "artist": "Wang Xuanzhi"
+                "title": "Lotus in Clear Light",
+                "subtitle": "Legacy of Daqian · Zhang Jinsheng Exhibition",
+                "address": "La Prairie, Québec",
+                "medium": "Ink and Color",
+                "style": "Lotus",
+                "artist": "Zhang Jinsheng"
+            },
+            {
+                "title": "Bones of Calligraphy",
+                "subtitle": "Legacy of Daqian · Zhang Jinsheng Exhibition",
+                "address": "La Prairie, Québec",
+                "medium": "Daqian-style Calligraphy",
+                "style": "Calligraphy",
+                "artist": "Zhang Jinsheng"
             }
         ]
     },
@@ -166,29 +168,29 @@
             }
         ],
         "gallery_captions": [
-            "Ink Tiger Series",
-            "Mountain Landscape",
-            "Tiger & Bamboo",
-            "Splash Ink Study",
-            "Tiger in Mist"
+            "Meng Hu Tiger Series",
+            "Splash-Ink Landscape",
+            "Golden Lotus",
+            "Daqian-style Calligraphy",
+            "Animal Painting"
         ]
     },
     "projects": {
         "items": [
             {
-                "title": "Tiger's Descent",
+                "title": "Gentle Tigers in Montréal",
                 "category": "Ink · Tiger"
             },
             {
-                "title": "Gallery Overview",
-                "category": "Exhibition Space"
+                "title": "Mountains in Mist",
+                "category": "Splash Ink & Color"
             },
             {
-                "title": "Ink Calligraphy Scroll",
+                "title": "Calligraphy Scroll",
                 "category": "Calligraphy"
             },
             {
-                "title": "Beasts of the Orient",
+                "title": "Eastern Beasts",
                 "category": "Ink · Animals"
             }
         ]
@@ -254,7 +256,7 @@
         ]
     },
     "team": {
-        "title": "Resident Artists",
+        "title": "Featured Works",
         "members": [
             {
                 "name": "Zhang Jinsheng",
@@ -281,9 +283,9 @@
                 "role": "Ink Wash · Floral"
             }
         ],
-        "banner_title": "Resident Artists",
-        "banner_heading": "MOECA brings together distinguished artists from China and across Asia",
-        "banner_body": "United by a shared dedication to Eastern art and cultural heritage, our resident artists use ink and brush to bridge civilizations and inspire dialogue across borders."
+        "banner_title": "Zhang Jinsheng Art",
+        "banner_heading": "MOECA currently centers its collection and exhibition narrative on Zhang Jinsheng",
+        "banner_body": "From gentle tigers and landscapes to lotus paintings and calligraphy, these works trace the Dafeng Tang lineage in a contemporary setting and form the museum’s current visual focus."
     },
     "cta": {
         "title": "Discover the Beauty of\nEastern Civilization",
@@ -293,10 +295,10 @@
         "title": "Exhibition News",
         "posts": [
             {
-                "category": "Opening Exhibition",
-                "title": "Tiger's Roar — Zhang Jinsheng Splash Ink Debut",
+                "category": "Exhibition Preview",
+                "title": "Legacy of Daqian · Gentle Tigers in Montréal — Zhang Jinsheng Exhibition",
                 "author": "MOECA Editorial",
-                "date": "June 2026"
+                "date": "September 28, 2026"
             },
             {
                 "category": "Cultural Exchange",
@@ -461,5 +463,37 @@
                 "href": "/contact"
             }
         ]
+    },
+    "featured_artworks": {
+        "title": "Selected Works by Zhang Jinsheng",
+        "desc": "A focused masonry view of tigers, landscapes, lotus paintings, calligraphy, and animal works, replacing the previous multi-artist placeholder section.",
+        "categories": {
+            "tiger": "Meng Hu Tigers",
+            "landscape": "Landscape",
+            "lotus": "Lotus",
+            "calligraphy": "Calligraphy",
+            "animals": "Animals",
+            "horse": "Horse",
+            "poster": "Exhibition Poster",
+            "artwork": "Artwork"
+        }
+    },
+    "artwork_gallery": {
+        "title": "Artwork Library",
+        "desc": "Browse the newly added real materials: calligraphy, landscapes, lotus paintings, gentle tigers, and animal works.",
+        "count": "{count} artwork materials",
+        "prev": "Previous page",
+        "next": "Next page",
+        "page": "Page {page}",
+        "categories": {
+            "tiger": "Meng Hu Tigers",
+            "landscape": "Landscape",
+            "lotus": "Lotus",
+            "calligraphy": "Calligraphy",
+            "animals": "Animals",
+            "horse": "Horse",
+            "poster": "Exhibition Poster",
+            "artwork": "Artwork"
+        }
     }
 }

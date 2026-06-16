@@ -10,8 +10,8 @@ const menus = [
 
 const FEATURED_ARTIST = "zhang-jinsheng";
 
-export default function ArtistShow({ params }) {
-    const { slug, locale } = params;
+export default async function ArtistShow({ params }) {
+    const { slug, locale } = await params;
 
     if (slug !== FEATURED_ARTIST) {
         redirect(`/${locale}/artist/${FEATURED_ARTIST}`);

@@ -5,11 +5,13 @@
     },
     "nav": {
         "home": "Accueil",
+        "zhang_jinsheng": "Zhang Jinsheng",
         "about": "À propos",
         "exhibitions": "Expositions",
         "artist": "Artiste",
         "news": "Actualités",
         "contact": "Contact",
+        "gallery": "Galerie",
         "profile": "Profil"
     },
     "marquee": [
@@ -26,36 +28,36 @@
         "artist_label": "Artiste",
         "slides": [
             {
-                "title": "Le Rugissement du Tigre",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
+                "title": "Tigres charmants à Montréal",
+                "subtitle": "Héritage de Daqian · Exposition Zhang Jinsheng",
+                "address": "La Prairie, Québec",
                 "medium": "Encre projetée",
-                "style": "Tigre & Faune",
+                "style": "Série Meng Hu",
                 "artist": "Zhang Jinsheng"
             },
             {
-                "title": "Encre & Humanité",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
-                "medium": "Paysage à l'encre",
+                "title": "Montagnes dans la brume",
+                "subtitle": "Héritage de Daqian · Exposition Zhang Jinsheng",
+                "address": "La Prairie, Québec",
+                "medium": "Encre et couleurs projetées",
                 "style": "Paysage",
-                "artist": "Li Wenyuan"
-            },
-            {
-                "title": "Esprit Souverain",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
-                "medium": "Encre projetée",
-                "style": "Tigre & Faune",
                 "artist": "Zhang Jinsheng"
             },
             {
-                "title": "Rêverie Orientale",
-                "subtitle": "MOECA · Montréal",
-                "address": "Montréal, Canada",
-                "medium": "Encre expressive",
-                "style": "Tigre & Faune",
-                "artist": "Wang Xuanzhi"
+                "title": "Lotus en lumière claire",
+                "subtitle": "Héritage de Daqian · Exposition Zhang Jinsheng",
+                "address": "La Prairie, Québec",
+                "medium": "Encre et couleurs",
+                "style": "Lotus",
+                "artist": "Zhang Jinsheng"
+            },
+            {
+                "title": "Force de la calligraphie",
+                "subtitle": "Héritage de Daqian · Exposition Zhang Jinsheng",
+                "address": "La Prairie, Québec",
+                "medium": "Calligraphie style Daqian",
+                "style": "Calligraphie",
+                "artist": "Zhang Jinsheng"
             }
         ]
     },
@@ -166,29 +168,29 @@
             }
         ],
         "gallery_captions": [
-            "Série Tigre à l'encre",
-            "Paysage de montagne",
-            "Tigre et bambou",
-            "Étude d'encre projetée",
-            "Tigre dans la brume"
+            "Série Meng Hu",
+            "Paysage à l’encre projetée",
+            "Lotus doré",
+            "Calligraphie style Daqian",
+            "Peinture animalière"
         ]
     },
     "projects": {
         "items": [
             {
-                "title": "La Descente du Tigre",
+                "title": "Tigres charmants à Montréal",
                 "category": "Encre · Tigre"
             },
             {
-                "title": "Vue sur la Galerie",
-                "category": "Espace d'exposition"
+                "title": "Montagnes dans la brume",
+                "category": "Encre et couleurs"
             },
             {
-                "title": "Rouleau de Calligraphie",
+                "title": "Rouleau de calligraphie",
                 "category": "Calligraphie"
             },
             {
-                "title": "Bêtes de l'Orient",
+                "title": "Bêtes de l’Orient",
                 "category": "Encre · Animaux"
             }
         ]
@@ -254,7 +256,7 @@
         ]
     },
     "team": {
-        "title": "Artistes résidents",
+        "title": "Œuvres choisies",
         "members": [
             {
                 "name": "Zhang Jinsheng",
@@ -281,9 +283,9 @@
                 "role": "Lavis · Floral"
             }
         ],
-        "banner_title": "Artistes résidents",
-        "banner_heading": "Le MOECA réunit des artistes distingués de Chine et d'Asie",
-        "banner_body": "Unis par une passion commune pour l'art oriental et le patrimoine culturel, nos artistes résidents utilisent l'encre et le pinceau pour rapprocher les civilisations."
+        "banner_title": "Art de Zhang Jinsheng",
+        "banner_heading": "Le MOECA concentre actuellement sa collection et son exposition autour de Zhang Jinsheng",
+        "banner_body": "Des tigres charmants aux paysages, lotus et calligraphies, ces œuvres prolongent la lignée Dafeng Tang dans un contexte contemporain et forment l’axe visuel actuel du musée."
     },
     "cta": {
         "title": "Découvrez la Beauté de\nla Civilisation Orientale",
@@ -293,10 +295,10 @@
         "title": "Actualités",
         "posts": [
             {
-                "category": "Exposition inaugurale",
-                "title": "Le Rugissement du Tigre — Première exposition de Zhang Jinsheng",
+                "category": "Aperçu d’exposition",
+                "title": "Héritage de Daqian · Tigres charmants à Montréal — Exposition Zhang Jinsheng",
                 "author": "Rédaction MOECA",
-                "date": "Juin 2026"
+                "date": "28 septembre 2026"
             },
             {
                 "category": "Échanges culturels",
@@ -461,5 +463,37 @@
                 "href": "/contact"
             }
         ]
+    },
+    "featured_artworks": {
+        "title": "Œuvres choisies de Zhang Jinsheng",
+        "desc": "Une sélection en cascade de tigres, paysages, lotus, calligraphies et peintures animalières, remplaçant l’ancienne section d’artistes résidents fictifs.",
+        "categories": {
+            "tiger": "Série Meng Hu",
+            "landscape": "Paysage",
+            "lotus": "Lotus",
+            "calligraphy": "Calligraphie",
+            "animals": "Animaux",
+            "horse": "Cheval",
+            "poster": "Affiche d’exposition",
+            "artwork": "Œuvre"
+        }
+    },
+    "artwork_gallery": {
+        "title": "Bibliothèque d’œuvres",
+        "desc": "Parcourez les nouveaux matériaux réels : calligraphies, paysages, lotus, tigres charmants et peintures animalières.",
+        "count": "{count} matériaux d’œuvres",
+        "prev": "Page précédente",
+        "next": "Page suivante",
+        "page": "Page {page}",
+        "categories": {
+            "tiger": "Série Meng Hu",
+            "landscape": "Paysage",
+            "lotus": "Lotus",
+            "calligraphy": "Calligraphie",
+            "animals": "Animaux",
+            "horse": "Cheval",
+            "poster": "Affiche d’exposition",
+            "artwork": "Œuvre"
+        }
     }
 }

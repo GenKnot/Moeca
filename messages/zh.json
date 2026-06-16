@@ -5,11 +5,13 @@
     },
     "nav": {
         "home": "首页",
+        "zhang_jinsheng": "张近生",
         "about": "关于我们",
         "exhibitions": "展览与作品",
         "artist": "艺术家",
         "news": "新闻动态",
         "contact": "联系我们",
+        "gallery": "作品画廊",
         "profile": "艺术家简介"
     },
     "marquee": [
@@ -26,36 +28,36 @@
         "artist_label": "艺术家",
         "slides": [
             {
-                "title": "虎啸山林",
-                "subtitle": "MOECA · Montréal",
-                "address": "蒙特利尔，加拿大",
+                "title": "萌虎来蒙",
+                "subtitle": "大千遗风 · 张近生书画艺术展",
+                "address": "La Prairie, Québec",
                 "medium": "泼墨大写意",
-                "style": "写意走兽",
+                "style": "萌虎系列",
                 "artist": "张近生"
             },
             {
-                "title": "山水·人文",
-                "subtitle": "MOECA · Montréal",
-                "address": "蒙特利尔，加拿大",
-                "medium": "水墨山水",
+                "title": "山水烟云",
+                "subtitle": "大千遗风 · 张近生书画艺术展",
+                "address": "La Prairie, Québec",
+                "medium": "泼墨泼彩",
                 "style": "山水",
-                "artist": "李文远"
-            },
-            {
-                "title": "威震八方",
-                "subtitle": "MOECA · Montréal",
-                "address": "蒙特利尔，加拿大",
-                "medium": "泼墨大写意",
-                "style": "写意走兽",
                 "artist": "张近生"
             },
             {
-                "title": "东方意境",
-                "subtitle": "MOECA · Montréal",
-                "address": "蒙特利尔，加拿大",
-                "medium": "泼墨写意",
-                "style": "写意走兽",
-                "artist": "王宣之"
+                "title": "荷风清气",
+                "subtitle": "大千遗风 · 张近生书画艺术展",
+                "address": "La Prairie, Québec",
+                "medium": "水墨设色",
+                "style": "荷花",
+                "artist": "张近生"
+            },
+            {
+                "title": "书法风骨",
+                "subtitle": "大千遗风 · 张近生书画艺术展",
+                "address": "La Prairie, Québec",
+                "medium": "大千体书法",
+                "style": "书法",
+                "artist": "张近生"
             }
         ]
     },
@@ -166,29 +168,29 @@
             }
         ],
         "gallery_captions": [
-            "写意虎系列",
-            "山水小景",
-            "虎与竹",
-            "泼墨习作",
-            "烟云中的虎"
+            "萌虎系列",
+            "泼墨泼彩山水",
+            "金碧朱荷",
+            "大千体书法",
+            "走兽画作"
         ]
     },
     "projects": {
         "items": [
             {
-                "title": "虎啸山林",
+                "title": "萌虎来蒙",
                 "category": "走兽·泼墨"
             },
             {
-                "title": "俯瞰展厅",
-                "category": "展览空间"
+                "title": "山水烟云",
+                "category": "泼墨泼彩"
             },
             {
                 "title": "翰墨长卷",
-                "category": "书法·长卷"
+                "category": "书法"
             },
             {
-                "title": "百兽图",
+                "title": "百兽东方",
                 "category": "走兽·综合"
             }
         ]
@@ -254,7 +256,7 @@
         ]
     },
     "team": {
-        "title": "驻馆艺术家",
+        "title": "精选作品",
         "members": [
             {
                 "name": "张近生",
@@ -281,9 +283,9 @@
                 "role": "水墨·花卉"
             }
         ],
-        "banner_title": "驻馆艺术家",
-        "banner_heading": "MOECA汇聚了来自中国及亚洲各地的杰出书画家",
-        "banner_body": "他们以艺术为语言，以笔墨为纽带，致力于传承东方文明的精髓，推动东西方文化的深度交流与对话。"
+        "banner_title": "张近生艺术",
+        "banner_heading": "MOECA 目前以张近生书画作品为核心馆藏与展览线索",
+        "banner_body": "从萌虎、山水、荷花到书法，作品呈现大风堂文脉在当代语境中的延展，也构成博物馆当前东方水墨展示的主要视觉脉络。"
     },
     "cta": {
         "title": "探索东方文明之美\n欢迎莅临参观",
@@ -293,10 +295,10 @@
         "title": "展览动态",
         "posts": [
             {
-                "category": "开幕展览",
-                "title": "虎啸山林——张近生泼墨走兽画首展",
+                "category": "展览预告",
+                "title": "大千遗风 · 萌虎来蒙——张近生书画艺术展",
                 "author": "MOECA 编辑部",
-                "date": "2026年6月"
+                "date": "2026年9月28日"
             },
             {
                 "category": "文化交流",
@@ -461,5 +463,37 @@
                 "href": "/contact"
             }
         ]
+    },
+    "featured_artworks": {
+        "title": "张近生精选作品",
+        "desc": "以瀑布流方式展示萌虎、山水、荷花、书法与走兽作品，替代原先多位驻馆艺术家的占位展示。",
+        "categories": {
+            "tiger": "萌虎系列",
+            "landscape": "山水",
+            "lotus": "荷花",
+            "calligraphy": "书法",
+            "animals": "走兽",
+            "horse": "马",
+            "poster": "展览海报",
+            "artwork": "作品"
+        }
+    },
+    "artwork_gallery": {
+        "title": "作品库",
+        "desc": "集中浏览新增真实素材中的书法、山水、荷花、萌虎与走兽作品。",
+        "count": "共 {count} 件作品素材",
+        "prev": "上一页",
+        "next": "下一页",
+        "page": "第 {page} 页",
+        "categories": {
+            "tiger": "萌虎系列",
+            "landscape": "山水",
+            "lotus": "荷花",
+            "calligraphy": "书法",
+            "animals": "走兽",
+            "horse": "马",
+            "poster": "展览海报",
+            "artwork": "作品"
+        }
     }
 }

@@ -1,14 +1,10 @@
-import slideImage3 from "@/assets/img/slider/slide-3.jpg";
-import slideImage4 from "@/assets/img/slider/slide-4.jpg";
-import slideImage5 from "@/assets/img/slider/slide-5.jpg";
-import slideImage6 from "@/assets/img/slider/slide-6.jpg";
+import slideImage1 from "@/assets/img/zhang/slider-tiger.jpg";
+import slideImage2 from "@/assets/img/zhang/slider-landscape.jpg";
+import slideImage3 from "@/assets/img/zhang/slider-lotus.jpg";
+import slideImage4 from "@/assets/img/zhang/slider-calligraphy.jpg";
 
 // 图片顺序对应 messages/*.json slider.slides 数组顺序
-// [0] slide-3: 多虎展厅（虎啸山林）
-// [1] slide-4: 白色长廊山水（山水·人文）
-// [2] slide-5: 清水混凝土大虎（威震八方）
-// [3] slide-6: 第四张
-export const sliderImages = [slideImage3, slideImage4, slideImage5, slideImage6];
+export const sliderImages = [slideImage1, slideImage2, slideImage3, slideImage4];
 
 import testimonialImg2 from "@/assets/img/testimonial/2.png";
 import testimonialImg1 from "@/assets/img/testimonial/1.png";
