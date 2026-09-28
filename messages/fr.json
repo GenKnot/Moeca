@@ -12,7 +12,8 @@
         "news": "Actualités",
         "contact": "Contact",
         "gallery": "Galerie",
-        "profile": "Profil"
+        "profile": "Profil",
+        "book": "Réserver une visite"
     },
     "marquee": [
         "Patrimoine Culturel de l'Orient",
@@ -325,7 +326,8 @@
         "button": "Contactez-nous"
     },
     "contact_info": {
-        "address": "597, chemin de la Sirène\nMontréal, Canada"
+        "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
+        "phone": "(450) 984-0633"
     },
     "contact": {
         "page_title": "Contactez-nous",
@@ -341,9 +343,12 @@
         "address_label": "Adresse",
         "museum_name": "Musée Canadien des Cultures et des Arts de l'Orient (MOECA)",
         "museum_name_fr": "Canadian Museum of Eastern Culture and Art",
-        "address": "597, chemin de la Sirène\nMontréal, Québec, Canada",
+        "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
         "success_msg": "✓ Message envoyé avec succès. Nous vous répondrons bientôt.",
-        "error_msg": "Une erreur s'est produite. Veuillez réessayer."
+        "error_msg": "Une erreur s'est produite. Veuillez réessayer.",
+        "phone_label": "Téléphone",
+        "phone": "(450) 984-0633",
+        "book_button": "Réserver une visite"
     },
     "history": {
         "block1_title": "Incorporation du MOECA",
@@ -441,7 +446,7 @@
         ]
     },
     "footer": {
-        "desc": "Musée Canadien des Cultures et des Arts de l'Orient\nMontréal, Canada",
+        "desc": "Musée Canadien des Cultures et des Arts de l'Orient\nLa Prairie, Québec, Canada",
         "office_title": "Bureau",
         "links_title": "Liens",
         "contact_title": "Contactez-nous",
@@ -461,6 +466,10 @@
             {
                 "label": "Contact",
                 "href": "/contact"
+            },
+            {
+                "label": "Réserver une visite",
+                "href": "/visit"
             }
         ]
     },
@@ -495,5 +504,33 @@
             "poster": "Affiche d’exposition",
             "artwork": "Œuvre"
         }
+    },
+    "visit": {
+        "page_title": "Réserver une visite",
+        "info_title": "Informations pratiques",
+        "intro": "Les visites du musée se font uniquement sur réservation. Veuillez réserver à l'avance la date et l'heure de votre visite ; nous vous contacterons pour la confirmer.",
+        "form_title": "Réserver une visite",
+        "form_note": "Veuillez fournir les informations suivantes (téléphone ou courriel — au moins l'un des deux) :",
+        "name_placeholder": "Nom",
+        "phone_placeholder": "Téléphone",
+        "email_placeholder": "Courriel",
+        "date_label": "Date de la visite",
+        "time_label": "Heure de la visite",
+        "visitors_placeholder": "Nombre de visiteurs",
+        "notes_placeholder": "Remarques (optionnel)",
+        "submit": "Envoyer la demande",
+        "contact_required": "Veuillez indiquer un numéro de téléphone ou un courriel.",
+        "success_msg": "✓ Votre demande de réservation a été envoyée. Nous vous contacterons sous peu pour la confirmer.",
+        "error_msg": "Une erreur s'est produite. Veuillez réessayer ou nous appeler au (450) 984-0633.",
+        "address_label": "Adresse",
+        "phone_label": "Téléphone",
+        "email_label": "Courriel"
+    },
+    "opening": {
+        "title": "Cérémonie d'ouverture et visite des salles",
+        "desc": "La cérémonie d'ouverture de l'exposition de calligraphie et de peinture de Zhang Jinsheng — Héritage de Daqian, première exposition nord-américaine — et l'inauguration du Musée canadien des cultures et des arts de l'Orient ont eu lieu le 28 septembre 2026. Voici l'affiche de l'événement et des vidéos tournées dans les salles.",
+        "poster_caption": "Invitation à la cérémonie d'ouverture (cliquez pour agrandir)",
+        "video1": "Visite des salles · Lotus et tigres",
+        "video2": "Visite des salles · Animaux du zodiaque et oiseaux"
     }
 }

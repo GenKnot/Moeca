@@ -14,6 +14,7 @@ export default function Breadcrumb({ menus }) {
         "Exhibitions": t("exhibitions"),
         "News":        t("news"),
         "Contact":     t("contact"),
+        "Book":        t("book"),
     };
 
     return (

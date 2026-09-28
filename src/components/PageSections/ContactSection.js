@@ -3,6 +3,7 @@
 import { useState } from "react";
 import contactBg from "@/assets/img/contact-bg.jpg";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export default function ContactSection() {
     const t = useTranslations("contact");
@@ -79,7 +80,7 @@ export default function ContactSection() {
                         <div className="col-xl-6">
                             <div className="google-map">
                                 <iframe
-                                    src="https://maps.google.com/maps?q=597+chemin+de+la+Sirene+Montreal+QC+Canada&output=embed&z=15"
+                                    src="https://maps.google.com/maps?q=597+chemin+de+Saint-Jean+La+Prairie+QC+J5R+2L2+Canada&output=embed&z=15"
                                     width="600" height="600" style={{ border: 0 }} allowFullScreen="" loading="lazy"
                                     referrerPolicy="no-referrer-when-downgrade"></iframe>
                             </div>
@@ -95,6 +96,10 @@ export default function ContactSection() {
                                         <h4>{t("museum_name_fr")}</h4>
                                     </div>
                                     <div className="single-contact-info">
+                                        <p>{t("phone_label")}</p>
+                                        <h4><a href="tel:+14509840633">{t("phone")}</a></h4>
+                                    </div>
+                                    <div className="single-contact-info">
                                         <p>{t("email_label")}</p>
                                         <h4><a href="mailto:info@moeca.ca">info@moeca.ca</a></h4>
                                     </div>
@@ -103,6 +108,7 @@ export default function ContactSection() {
                                         <h4 style={{ whiteSpace: "pre-line" }}>{t("address")}</h4>
                                     </div>
                                 </div>
+                                <Link href="/visit" className="theme-btn mt-30">{t("book_button")}</Link>
                             </div>
                         </div>
                     </div>

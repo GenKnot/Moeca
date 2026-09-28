@@ -57,6 +57,11 @@
         h4 {
             margin: 0 0 15px;
 
+            a {
+                font-size: inherit;
+                color: inherit;
+            }
+
             @media #{$xs} {
                 font-size: 18px;
             }

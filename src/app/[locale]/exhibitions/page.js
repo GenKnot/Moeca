@@ -5,6 +5,7 @@ import ProjectSectionThree from "@/components/PageSections/ProjectSectionThree";
 import ClientSection from "@/components/PageSections/ClientSection";
 import NewsletterSection from "@/components/PageSections/NewsletterSection";
 import PaginatedArtworkGallery from "@/components/PageSections/PaginatedArtworkGallery";
+import OpeningMediaSection from "@/components/PageSections/OpeningMediaSection";
 
 const menus = [
     { label: "Exhibitions", to: "" },
@@ -15,6 +16,7 @@ export default function Exhibitions() {
         <>
             <Breadcrumb menus={menus} />
             <HeroSectionProjects />
+            <OpeningMediaSection />
             <ServiceSectionSix />
             <ProjectSectionThree />
             <PaginatedArtworkGallery />

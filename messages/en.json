@@ -12,7 +12,8 @@
         "news": "News",
         "contact": "Contact",
         "gallery": "Gallery",
-        "profile": "Profile"
+        "profile": "Profile",
+        "book": "Book a Visit"
     },
     "marquee": [
         "Eastern Cultural Heritage",
@@ -325,7 +326,8 @@
         "button": "Get In Touch"
     },
     "contact_info": {
-        "address": "597, chemin de la Sirène\nMontréal, Canada"
+        "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
+        "phone": "(450) 984-0633"
     },
     "contact": {
         "page_title": "Contact Us",
@@ -341,9 +343,12 @@
         "address_label": "Address",
         "museum_name": "Canadian Museum of Eastern Culture and Art (MOECA)",
         "museum_name_fr": "Musée Canadien des Cultures et des Arts de l'Orient",
-        "address": "597, chemin de la Sirène\nMontréal, Québec, Canada",
+        "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
         "success_msg": "✓ Message sent successfully. We'll get back to you soon.",
-        "error_msg": "Something went wrong. Please try again."
+        "error_msg": "Something went wrong. Please try again.",
+        "phone_label": "Phone",
+        "phone": "(450) 984-0633",
+        "book_button": "Book a Visit"
     },
     "history": {
         "block1_title": "MOECA Incorporated",
@@ -441,7 +446,7 @@
         ]
     },
     "footer": {
-        "desc": "Canadian Museum of Eastern Culture and Art\nMontréal, Canada",
+        "desc": "Canadian Museum of Eastern Culture and Art\nLa Prairie, Québec, Canada",
         "office_title": "Office",
         "links_title": "Links",
         "contact_title": "Get in Touch",
@@ -461,6 +466,10 @@
             {
                 "label": "Contact",
                 "href": "/contact"
+            },
+            {
+                "label": "Book a Visit",
+                "href": "/visit"
             }
         ]
     },
@@ -495,5 +504,33 @@
             "poster": "Exhibition Poster",
             "artwork": "Artwork"
         }
+    },
+    "visit": {
+        "page_title": "Book a Visit",
+        "info_title": "Visitor Information",
+        "intro": "Visits to the Museum are by appointment only. Please book your visit date and time in advance, and we will get back to you to confirm.",
+        "form_title": "Book a Visit",
+        "form_note": "Please provide the following (phone or email — at least one is required):",
+        "name_placeholder": "Name",
+        "phone_placeholder": "Phone",
+        "email_placeholder": "Email",
+        "date_label": "Visit date",
+        "time_label": "Visit time",
+        "visitors_placeholder": "Number of visitors",
+        "notes_placeholder": "Notes (optional)",
+        "submit": "Request Booking",
+        "contact_required": "Please provide a phone number or an email.",
+        "success_msg": "✓ Your booking request has been sent. We will contact you shortly to confirm.",
+        "error_msg": "Something went wrong. Please try again or call us at (450) 984-0633.",
+        "address_label": "Address",
+        "phone_label": "Phone",
+        "email_label": "Email"
+    },
+    "opening": {
+        "title": "Opening Ceremony & Gallery Tour",
+        "desc": "The opening ceremony of the Zhang Jinsheng Calligraphy and Painting Exhibition — Legacy of Daqian, First North American Exhibition — and the inauguration of the Canadian Museum of Eastern Culture and Art took place on September 28, 2026. Below are the event poster and videos filmed in the gallery.",
+        "poster_caption": "Opening ceremony invitation (click to enlarge)",
+        "video1": "Gallery tour · Lotus and tigers",
+        "video2": "Gallery tour · Zodiac animals and birds"
     }
 }

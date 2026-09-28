@@ -85,10 +85,13 @@ export default function MobileMenuNavBar({ menuItems }) {
                     </div>
 
                     <div className="action-bar">
+                        <a href="tel:+14509840633">
+                            <i className="las la-phone"/> (450) 984-0633
+                        </a>
                         <a href="mailto:info@moeca.ca">
                             <i className="las la-envelope"/> info@moeca.ca
                         </a>
-                        <Link href="/contact" className="white-btn">Contact Us</Link>
+                        <Link href="/visit" className="white-btn">{t("book")}</Link>
                     </div>
                 </div>
             </div>

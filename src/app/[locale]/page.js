@@ -11,6 +11,7 @@ import CtaAreaSection from "@/components/PageSections/CtaAreaSection";
 import NewsletterSection from "@/components/PageSections/NewsletterSection";
 import BlogSection from "@/components/PageSections/BlogSection";
 import ProjectSection from "@/components/PageSections/ProjectSection";
+import OpeningMediaSection from "@/components/PageSections/OpeningMediaSection";
 
 export default function Home() {
     return (
@@ -23,6 +24,9 @@ export default function Home() {
 
             {/*About Area*/}
             <AboutAreaSection/>
+
+            {/*Opening Ceremony & Gallery Videos*/}
+            <OpeningMediaSection/>
 
             {/*Counter Section*/}
             <CounterSection customClass={'pt-50 pb-50'}/>

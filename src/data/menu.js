@@ -4,4 +4,5 @@ export const menuItems = [
     { labelKey: "exhibitions", link: "/exhibitions" },
     { labelKey: "news",        link: "/blog" },
     { labelKey: "contact",     link: "/contact" },
+    { labelKey: "book",        link: "/visit" },
 ];

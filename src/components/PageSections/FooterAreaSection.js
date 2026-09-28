@@ -6,6 +6,7 @@ import { Link } from "@/i18n/navigation";
 
 export default function FooterAreaSection() {
     const t = useTranslations("footer");
+    const tInfo = useTranslations("contact_info");
     const links = t.raw("links");
 
     return (
@@ -21,7 +22,10 @@ export default function FooterAreaSection() {
                         </div>
                         <div className="col-lg-2 col-md-6">
                             <h5>{t("office_title")}</h5>
-                            <p>597, chemin de la Sirène<br/>Montréal, Canada</p>
+                            <p style={{ whiteSpace: "pre-line" }}>{tInfo("address")}</p>
+                            <div className="company-email">
+                                <a href="tel:+14509840633">{tInfo("phone")}</a>
+                            </div>
                             <div className="company-email">
                                 <a href="mailto:info@moeca.ca">info@moeca.ca</a>
                             </div>
@@ -43,8 +47,11 @@ export default function FooterAreaSection() {
                                     <div className="company-email">
                                         <a href="mailto:info@moeca.ca">info@moeca.ca</a>
                                     </div>
-                                    <p style={{ marginTop: "12px", fontSize: "14px", opacity: 0.7 }}>
-                                        597, chemin de la Sirène<br/>Montréal, Canada
+                                    <div className="company-email">
+                                        <a href="tel:+14509840633">{tInfo("phone")}</a>
+                                    </div>
+                                    <p style={{ marginTop: "12px", fontSize: "14px", opacity: 0.7, whiteSpace: "pre-line" }}>
+                                        {tInfo("address")}
                                     </p>
                                 </li>
                             </ul>

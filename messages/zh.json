@@ -12,7 +12,8 @@
         "news": "新闻动态",
         "contact": "联系我们",
         "gallery": "作品画廊",
-        "profile": "艺术家简介"
+        "profile": "艺术家简介",
+        "book": "预约参观"
     },
     "marquee": [
         "东方文明之美",
@@ -325,7 +326,8 @@
         "button": "联系我们"
     },
     "contact_info": {
-        "address": "597, chemin de la Sirène\n蒙特利尔，加拿大"
+        "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
+        "phone": "(450) 984-0633"
     },
     "contact": {
         "page_title": "联系我们",
@@ -341,9 +343,12 @@
         "address_label": "地址",
         "museum_name": "加拿大东方文化艺术博物馆",
         "museum_name_fr": "Musée Canadien des Cultures et des Arts de l'Orient",
-        "address": "597, chemin de la Sirène\n蒙特利尔，魁北克，加拿大",
+        "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
         "success_msg": "✓ 留言发送成功，我们将尽快回复您。",
-        "error_msg": "发送失败，请稍后重试。"
+        "error_msg": "发送失败，请稍后重试。",
+        "phone_label": "电话",
+        "phone": "(450) 984-0633",
+        "book_button": "预约参观"
     },
     "history": {
         "block1_title": "MOECA 正式注册成立",
@@ -441,7 +446,7 @@
         ]
     },
     "footer": {
-        "desc": "加拿大东方文化艺术博物馆\n蒙特利尔，加拿大",
+        "desc": "加拿大东方文化艺术博物馆\n魁北克省拉普雷里（La Prairie），加拿大",
         "office_title": "地址",
         "links_title": "导航",
         "contact_title": "联系我们",
@@ -461,6 +466,10 @@
             {
                 "label": "联系我们",
                 "href": "/contact"
+            },
+            {
+                "label": "预约参观",
+                "href": "/visit"
             }
         ]
     },
@@ -495,5 +504,33 @@
             "poster": "展览海报",
             "artwork": "作品"
         }
+    },
+    "visit": {
+        "page_title": "预约参观",
+        "info_title": "参观信息",
+        "intro": "博物馆实行预约参观。请提前预约参观日期及时间，我们将尽快与您确认。",
+        "form_title": "预约参观",
+        "form_note": "预约时请提供以下信息（联系电话与 Email 至少填写一项）：",
+        "name_placeholder": "姓名",
+        "phone_placeholder": "联系电话",
+        "email_placeholder": "Email",
+        "date_label": "参观日期",
+        "time_label": "参观时间",
+        "visitors_placeholder": "参观人数",
+        "notes_placeholder": "备注（选填）",
+        "submit": "提交预约",
+        "contact_required": "请至少填写联系电话或 Email。",
+        "success_msg": "✓ 预约申请已提交，我们将尽快与您联系确认。",
+        "error_msg": "提交失败，请稍后重试，或直接致电 (450) 984-0633。",
+        "address_label": "地址",
+        "phone_label": "电话",
+        "email_label": "电子邮箱"
+    },
+    "opening": {
+        "title": "开幕式与展厅实拍",
+        "desc": "「大千遗风 · 北美行」张近生书画艺术展开幕式暨加拿大东方文化艺术博物馆开馆仪式于 2026 年 9 月 28 日举行。以下为活动海报及展厅实拍视频。",
+        "poster_caption": "开幕式邀请海报（点击查看大图）",
+        "video1": "展厅实拍 · 荷花与萌虎",
+        "video2": "展厅实拍 · 生肖与花鸟"
     }
 }
