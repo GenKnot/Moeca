@@ -327,7 +327,8 @@
     },
     "contact_info": {
         "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
-        "phone": "(450) 984-0633"
+        "phone": "(450) 984-0633",
+        "appointment_only": "Visits by appointment · Please book ahead"
     },
     "contact": {
         "page_title": "Contact Us",
@@ -348,7 +349,9 @@
         "error_msg": "Something went wrong. Please try again.",
         "phone_label": "Phone",
         "phone": "(450) 984-0633",
-        "book_button": "Book a Visit"
+        "book_button": "Book a Visit",
+        "appointment_only": "Visits are by appointment. Please book ahead, and we will confirm your visit time with you.",
+        "open_map": "Open in Google Maps"
     },
     "history": {
         "block1_title": "MOECA Incorporated",
@@ -508,7 +511,7 @@
     "visit": {
         "page_title": "Book a Visit",
         "info_title": "Visitor Information",
-        "intro": "Visits to the Museum are by appointment only. Please book your visit date and time in advance, and we will get back to you to confirm.",
+        "intro": "Visits to the Museum are by appointment. Please book your visit date and time in advance, and we will get back to you to confirm.",
         "form_title": "Book a Visit",
         "form_note": "Please provide the following (phone or email — at least one is required):",
         "name_placeholder": "Name",
@@ -524,7 +527,9 @@
         "error_msg": "Something went wrong. Please try again or call us at (450) 984-0633.",
         "address_label": "Address",
         "phone_label": "Phone",
-        "email_label": "Email"
+        "email_label": "Email",
+        "appointment_only": "Visits are by appointment. Please book ahead, and we will confirm your visit time with you.",
+        "open_map": "Open in Google Maps"
     },
     "opening": {
         "title": "Opening Ceremony & Gallery Tour",

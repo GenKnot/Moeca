@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import { MAPS_URL } from "@/data/museum";
 
 export default function FooterAreaSection() {
     const t = useTranslations("footer");
@@ -22,7 +23,8 @@ export default function FooterAreaSection() {
                         </div>
                         <div className="col-lg-2 col-md-6">
                             <h5>{t("office_title")}</h5>
-                            <p style={{ whiteSpace: "pre-line" }}>{tInfo("address")}</p>
+                            <p style={{ whiteSpace: "pre-line" }}><a href={MAPS_URL} target="_blank" rel="noopener noreferrer">{tInfo("address")}</a></p>
+                            <p style={{ fontSize: "14px", opacity: 0.8 }}>{tInfo("appointment_only")}</p>
                             <div className="company-email">
                                 <a href="tel:+14509840633">{tInfo("phone")}</a>
                             </div>
@@ -51,7 +53,7 @@ export default function FooterAreaSection() {
                                         <a href="tel:+14509840633">{tInfo("phone")}</a>
                                     </div>
                                     <p style={{ marginTop: "12px", fontSize: "14px", opacity: 0.7, whiteSpace: "pre-line" }}>
-                                        {tInfo("address")}
+                                        <a href={MAPS_URL} target="_blank" rel="noopener noreferrer">{tInfo("address")}</a>
                                     </p>
                                 </li>
                             </ul>

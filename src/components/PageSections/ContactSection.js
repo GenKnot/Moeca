@@ -4,6 +4,7 @@ import { useState } from "react";
 import contactBg from "@/assets/img/contact-bg.jpg";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import { MAPS_URL } from "@/data/museum";
 
 export default function ContactSection() {
     const t = useTranslations("contact");
@@ -48,6 +49,9 @@ export default function ContactSection() {
                     <div className="col-xl-5 col-lg-5">
                         <div className="contact-text">
                             <p>{t("intro")}</p>
+                            <p style={{ borderLeft: "3px solid #171717", padding: "10px 16px", background: "#f5f5f3" }}>
+                                {t("appointment_only")}
+                            </p>
                         </div>
                     </div>
                     <div className="offset-xl-1 col-xl-6 offset-lg-1 col-lg-6">
@@ -105,10 +109,15 @@ export default function ContactSection() {
                                     </div>
                                     <div className="single-contact-info">
                                         <p>{t("address_label")}</p>
-                                        <h4 style={{ whiteSpace: "pre-line" }}>{t("address")}</h4>
+                                        <h4 style={{ whiteSpace: "pre-line" }}><a href={MAPS_URL} target="_blank" rel="noopener noreferrer">{t("address")}</a></h4>
                                     </div>
                                 </div>
-                                <Link href="/visit" className="theme-btn mt-30">{t("book_button")}</Link>
+                                <div className="mt-30" style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
+                                    <Link href="/visit" className="theme-btn">{t("book_button")}</Link>
+                                    <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="theme-btn">
+                                        <i className="las la-map-marker"></i> {t("open_map")}
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>

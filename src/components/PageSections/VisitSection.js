@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useTranslations } from "next-intl";
+import { MAPS_URL } from "@/data/museum";
 
 const labelStyle = { fontSize: "13px", opacity: 0.6, margin: "0 0 4px" };
 
@@ -55,6 +56,9 @@ export default function VisitSection() {
                     <div className="col-xl-5 col-lg-5">
                         <div className="contact-text">
                             <p>{t("intro")}</p>
+                            <p style={{ borderLeft: "3px solid #171717", padding: "10px 16px", background: "#f5f5f3" }}>
+                                {t("appointment_only")}
+                            </p>
                         </div>
                         <div className="contact-info mt-60" style={{ height: "auto", justifyContent: "flex-start" }}>
                             <div className="section-title">
@@ -63,7 +67,7 @@ export default function VisitSection() {
                             <div className="contact-info-inner mt-30">
                                 <div className="single-contact-info">
                                     <p>{t("address_label")}</p>
-                                    <h4 style={{ whiteSpace: "pre-line" }}>{tInfo("address")}</h4>
+                                    <h4 style={{ whiteSpace: "pre-line" }}><a href={MAPS_URL} target="_blank" rel="noopener noreferrer">{tInfo("address")}</a></h4>
                                 </div>
                                 <div className="single-contact-info">
                                     <p>{t("phone_label")}</p>
@@ -74,6 +78,9 @@ export default function VisitSection() {
                                     <h4><a href="mailto:info@moeca.ca">info@moeca.ca</a></h4>
                                 </div>
                             </div>
+                            <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="theme-btn mt-30">
+                                <i className="las la-map-marker"></i> {t("open_map")}
+                            </a>
                         </div>
                     </div>
                     <div className="offset-xl-1 col-xl-6 offset-lg-1 col-lg-6">

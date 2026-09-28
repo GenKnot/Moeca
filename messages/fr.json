@@ -327,7 +327,8 @@
     },
     "contact_info": {
         "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
-        "phone": "(450) 984-0633"
+        "phone": "(450) 984-0633",
+        "appointment_only": "Visites sur réservation · Merci de réserver à l'avance"
     },
     "contact": {
         "page_title": "Contactez-nous",
@@ -348,7 +349,9 @@
         "error_msg": "Une erreur s'est produite. Veuillez réessayer.",
         "phone_label": "Téléphone",
         "phone": "(450) 984-0633",
-        "book_button": "Réserver une visite"
+        "book_button": "Réserver une visite",
+        "appointment_only": "Les visites se font sur réservation. Veuillez réserver à l'avance ; nous vous confirmerons l'heure de votre visite.",
+        "open_map": "Ouvrir dans Google Maps"
     },
     "history": {
         "block1_title": "Incorporation du MOECA",
@@ -508,7 +511,7 @@
     "visit": {
         "page_title": "Réserver une visite",
         "info_title": "Informations pratiques",
-        "intro": "Les visites du musée se font uniquement sur réservation. Veuillez réserver à l'avance la date et l'heure de votre visite ; nous vous contacterons pour la confirmer.",
+        "intro": "Les visites du musée se font sur réservation. Veuillez réserver à l'avance la date et l'heure de votre visite ; nous vous contacterons pour la confirmer.",
         "form_title": "Réserver une visite",
         "form_note": "Veuillez fournir les informations suivantes (téléphone ou courriel — au moins l'un des deux) :",
         "name_placeholder": "Nom",
@@ -524,7 +527,9 @@
         "error_msg": "Une erreur s'est produite. Veuillez réessayer ou nous appeler au (450) 984-0633.",
         "address_label": "Adresse",
         "phone_label": "Téléphone",
-        "email_label": "Courriel"
+        "email_label": "Courriel",
+        "appointment_only": "Les visites se font sur réservation. Veuillez réserver à l'avance ; nous vous confirmerons l'heure de votre visite.",
+        "open_map": "Ouvrir dans Google Maps"
     },
     "opening": {
         "title": "Cérémonie d'ouverture et visite des salles",

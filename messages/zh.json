@@ -327,7 +327,8 @@
     },
     "contact_info": {
         "address": "597, chemin de Saint-Jean\nLa Prairie, Québec J5R 2L2\nCanada",
-        "phone": "(450) 984-0633"
+        "phone": "(450) 984-0633",
+        "appointment_only": "预约参观 · 欢迎提前预约"
     },
     "contact": {
         "page_title": "联系我们",
@@ -348,7 +349,9 @@
         "error_msg": "发送失败，请稍后重试。",
         "phone_label": "电话",
         "phone": "(450) 984-0633",
-        "book_button": "预约参观"
+        "book_button": "预约参观",
+        "appointment_only": "本馆实行预约参观，参观前请提前预约，我们将与您确认参观时间。",
+        "open_map": "在 Google 地图中打开"
     },
     "history": {
         "block1_title": "MOECA 正式注册成立",
@@ -508,7 +511,7 @@
     "visit": {
         "page_title": "预约参观",
         "info_title": "参观信息",
-        "intro": "博物馆实行预约参观。请提前预约参观日期及时间，我们将尽快与您确认。",
+        "intro": "博物馆实行预约参观。请提前预约参观日期及时间，我们将尽快与您联系确认。",
         "form_title": "预约参观",
         "form_note": "预约时请提供以下信息（联系电话与 Email 至少填写一项）：",
         "name_placeholder": "姓名",
@@ -524,7 +527,9 @@
         "error_msg": "提交失败，请稍后重试，或直接致电 (450) 984-0633。",
         "address_label": "地址",
         "phone_label": "电话",
-        "email_label": "电子邮箱"
+        "email_label": "电子邮箱",
+        "appointment_only": "本馆实行预约参观，参观前请提前预约，我们将与您确认参观时间。",
+        "open_map": "在 Google 地图中打开"
     },
     "opening": {
         "title": "开幕式与展厅实拍",
