@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "animate.css": "^4.1.1",
     "bootstrap": "5.2.0",
     "html-react-parser": "^5.2.2",

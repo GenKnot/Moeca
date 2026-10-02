@@ -6,11 +6,15 @@ import '@/assets/css/animate.css';
 import '@/assets/css/slick.css';
 import '@/assets/css/backToTop.css';
 import '@/assets/scss/style.scss';
+import { Analytics } from '@vercel/analytics/next';
 
 export default function RootLayout({children}) {
     return (
         <html>
-            <body>{children}</body>
+            <body>
+                {children}
+                <Analytics/>
+            </body>
         </html>
     );
 }
