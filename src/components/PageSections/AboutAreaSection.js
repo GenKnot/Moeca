@@ -1,6 +1,6 @@
 "use client";
 
-import aboutBgImg from "@/assets/img/about/about-2.jpg";
+import aboutBgImg from "@/assets/img/about/about-museum.jpg";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -38,7 +38,7 @@ export default function AboutAreaSection() {
                 <div className="row">
                     <div className="offset-xl-1 col-xl-8 col-lg-8">
                         <div className="about-bg-wrapper">
-                            <Image src={aboutBgImg} alt="MOECA"/>
+                            <Image src={aboutBgImg} alt="MOECA" sizes="(max-width: 991px) 100vw, 66vw" style={{width: "100%", height: "auto"}}/>
                         </div>
                     </div>
                     <div className="col-xl-3 col-lg-3">
